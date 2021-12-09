@@ -35,7 +35,7 @@ export default function () {
                 <h1 className="text-3xl font-bold text-center">
                     Región de Kanto
                 </h1>
-                <div className="my-6 flex justify-between">
+                <div className="my-6 flex justify-center flex-wrap gap-4">
                     <Search />
                     <Filter setPokemons={setPokemons} setTypesList={setTypesList} typesList={typesList} />
                 </div>

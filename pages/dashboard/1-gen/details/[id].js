@@ -46,8 +46,8 @@ export default function () {
                             ))
                         }
                     </div>
-                    <div className="flex justify-between pb-4 px-3">
-                        <div className="flex items-center">
+                    <div className="flex flex-wrap gap-3 justify-between pb-4 px-3 md:justify-center border-b-2">
+                        <div className="flex items-center sm-raw:border-b-2 sm-raw:pb-4 sm-raw:w-full sm-raw: justify-center">
                             <i className="fas fa-text-height fa-2x mr-2"></i>
                             <p className="text-xl">Altura: {pokemon?.height}</p>
                         </div>
@@ -56,8 +56,8 @@ export default function () {
                             <p className="text-xl">Peso: {pokemon?.weight}</p>
                         </div>
                     </div>
-                    <div className="flex items-center pb-4 px-3">
-                        <i className="fas fa-egg fa-2x mr-2"></i>
+                    <div className="flex flex-wrap gap-3 items-center py-4 px-3 md:justify-center border-b-2">
+                        <i className="fas fa-egg fa-2x"></i>
                         <p className="text-xl">Aparición en huevo:</p>
                         {
                             pokemon?.egg.includes('2') ? (
@@ -70,27 +70,29 @@ export default function () {
                                     <img src="/huevo5km.png" alt={pokemon?.name + pokemon?.egg} className="h-10" />
                                     <span className="text-xl">- {pokemon?.egg}</span>
                                 </div>
-                            ) : (<span className="text-xl ml-2">{pokemon?.egg}</span>)
+                            ) : (<span className="text-xl">{pokemon?.egg}</span>)
                         }
                     </div>
-                    <div className="flex items-center pb-4 px-3">
-                        <i className="fas fa-biohazard fa-2x mr-2"></i>
-                        <p className="mr-2 text-xl">Debilidades:</p>
+                    <div className="flex items-center gap-3 flex-wrap py-4 px-3 md:justify-center border-b-2">
+                        <i className="fas fa-biohazard fa-2x"></i>
+                        <p className="text-xl">Debilidades:</p>
+                        <div className="flex">
                         {
                             pokemon?.weaknesses.map(w => (
                                 <img src={'/types/' + types[w].image} key={w} className="w-9 mr-2" />
                             ))
                         }
+                        </div>
                     </div>
                     {
                         pokemon?.multipliers != null && (
-                            <div className="flex items-center pb-2 px-3">
-                                <i className="fas fa-arrow-up mr-2 fa-2x"></i>
+                            <div className="flex flex-wrap gap-5 items-center py-4 px-3 md:justify-center">
+                                <i className="fas fa-arrow-up fa-2x"></i>
                                 <p className="text-xl">PC al evolucionar:</p>
-                                <div className="ml-3 flex flex-col justify-end relative">
+                                <div className=" flex flex-col relative">
                                     <input
                                         type="text"
-                                        className={`border-2 rounded-md py-2 px-4 outline-none ${messageError ? 'border-red-500' : ''}`}
+                                        className={`border rounded-md py-2 px-4 outline-none ${messageError ? 'border-red-500' : ''}`}
                                         placeholder="Digite el PC actual del pokemon"
                                         onChange={handleChange}
                                         value={valuePC}
@@ -102,7 +104,7 @@ export default function () {
                                     }
                                 </div>
                                 <button
-                                    className="ml-3 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-md"
+                                    className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-md"
                                     onClick={handleClick}
                                 >
                                     <i className="fas fa-external-link-alt mr-2"></i>

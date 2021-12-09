@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className="font-mono font-black text-2xl">Next PokeApp</h1>
         <img src="main.jpg" alt="main" className="w-3/4 rounded-lg my-4" />
         <p className="text-base">Navega y descubre el maravilloso mundo de los pokemon, <br /> conociendo todo acerca de ellos</p>
-        <div className="my-4">
+        <div className="my-4 flex flex-wrap justify-around gap-3">
           <Link href="/dashboard/1-gen">
             <a className="bg-yellow-400 py-2 px-6 rounded-full font-semibold">1° generation</a>
           </Link>
