@@ -47,7 +47,7 @@ export default function () {
                         }
                     </div>
                     <div className="flex flex-wrap gap-3 justify-between pb-4 px-3 md:justify-center border-b-2">
-                        <div className="flex items-center sm-raw:border-b-2 sm-raw:pb-4 sm-raw:w-full sm-raw: justify-center">
+                        <div className="flex items-center md:border-b-2 md:pb-4 md:w-full md:justify-center">
                             <i className="fas fa-text-height fa-2x mr-2"></i>
                             <p className="text-xl">Altura: {pokemon?.height}</p>
                         </div>
