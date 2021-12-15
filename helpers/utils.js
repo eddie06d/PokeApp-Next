@@ -1,13 +1,15 @@
-export const getPokemonById = (list, id) => {
-    return list.find(item => item.id == id);
+import { list1GenPokemons } from "../constants/Pokemons";
+
+export const getPokemonById = (id) => {
+    return list1GenPokemons.find(pokemon => pokemon.id == id);
 }
 
-export const getPokemonByName = (list, name) => {
-    return list.find(item => item.name == name);
+export const getPokemonByName = (name) => {
+    return list1GenPokemons.find(pokemon => pokemon.name == name);
 }
 
-export const getPokemonsByType = (list, type) => {
-    return list.filter(item => item.type.includes(type));
+export const getPokemonsByType = (type) => {
+    return list1GenPokemons.filter(pokemon => pokemon.type.includes(type));
 }
 
 export const verifyPC = (pc) => {

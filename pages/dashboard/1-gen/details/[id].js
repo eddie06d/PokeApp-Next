@@ -2,7 +2,6 @@ import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 import AppLayout from "../../../../components/AppLayout";
 import Modal from "../../../../components/Modal";
-import { list1GenPokemons } from "../../../../constants/Pokemons";
 import { types } from "../../../../constants/PokemonTypes";
 import { getPokemonById, getPokemonByName, verifyPC } from "../../../../helpers/utils";
 
@@ -16,7 +15,7 @@ export default function () {
     const { id } = router.query;
 
     useEffect(() => {
-        setPokemon(getPokemonById(list1GenPokemons, id))
+        setPokemon(getPokemonById(id))
     }, [id]);
 
     const handleChange = (e) => {
@@ -76,10 +75,21 @@ export default function () {
                     <div className="flex items-center gap-3 flex-wrap py-4 px-3 md:justify-center border-b-2">
                         <i className="fas fa-biohazard fa-2x"></i>
                         <p className="text-xl">Debilidades:</p>
-                        <div className="flex">
+                        <div className="flex flex-wrap gap-3">
                         {
                             pokemon?.weaknesses.map(w => (
-                                <img src={'/types/' + types[w].image} key={w} className="w-9 mr-2" />
+                                <img src={'/types/' + types[w].image} key={w} className="w-9" />
+                            ))
+                        }
+                        </div>
+                    </div>
+                    <div className="flex items-center gap-3 flex-wrap py-4 px-3 md:justify-center border-b-2">
+                        <i className="fas fa-hand-rock fa-2x"></i>
+                        <p className="text-xl">Resistencias:</p>
+                        <div className="flex flex-wrap gap-3">
+                        {
+                            pokemon?.resistances.map(w => (
+                                <img src={'/types/' + types[w].image} key={w} className="w-9" />
                             ))
                         }
                         </div>
@@ -125,9 +135,9 @@ export default function () {
                                     PC <span className="text-2xl font-semibold ml-2">{valuePC}</span>
                                 </p>
                             </div>
-                            <i className="fas fa-arrow-right fa-3x mx-6"></i>
+                            <i className="fas fa-long-arrow-alt-right fa-3x mx-6"></i>
                             <div className="flex flex-col justify-center">
-                                <img src={getPokemonByName(list1GenPokemons, pokemon?.next_evolution[0].name)?.img} alt={pokemon?.name} className="h-44" />
+                                <img src={getPokemonByName(pokemon?.next_evolution[0].name)?.img} alt={pokemon?.name} className="h-44" />
                                 {
                                     pokemon?.multipliers.length == 1 && (
                                         <p className="text-lg font-semibold">

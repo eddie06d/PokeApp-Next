@@ -22,6 +22,13 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic"
     ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Grass",
+        "Fighting",
+        "Fairy"
+    ],
     "next_evolution": [{
         "num": "002",
         "name": "Ivysaur"
@@ -56,6 +63,13 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic"
     ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Grass",
+        "Fighting",
+        "Fairy"
+    ],
     "prev_evolution": [{
         "num": "001",
         "name": "Bulbasaur"
@@ -87,6 +101,13 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic"
     ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Grass",
+        "Fighting",
+        "Fairy"
+    ],
     "prev_evolution": [{
         "num": "001",
         "name": "Bulbasaur"
@@ -116,6 +137,14 @@ export const list1GenPokemons = [{
         "Ground",
         "Rock"
     ],
+    "resistances": [
+        "Grass",
+        "Fairy",
+        "Ice",
+        "Fire",
+        "Bug",
+        "Steel"
+    ],
     "next_evolution": [{
         "num": "005",
         "name": "Charmeleon"
@@ -144,6 +173,14 @@ export const list1GenPokemons = [{
         "Water",
         "Ground",
         "Rock"
+    ],
+    "resistances": [
+        "Grass",
+        "Fairy",
+        "Ice",
+        "Fire",
+        "Bug",
+        "Steel"
     ],
     "prev_evolution": [{
         "num": "004",
@@ -175,6 +212,15 @@ export const list1GenPokemons = [{
         "Electric",
         "Rock"
     ],
+    "resistances": [
+        "Grass",
+        "Fairy",
+        "Fire",
+        "Bug",
+        "Steel",
+        "Fighting",
+        "Ground"
+    ],
     "prev_evolution": [{
         "num": "004",
         "name": "Charmander"
@@ -202,6 +248,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Grass"
+    ],
+    "resistances": [
+        "Fire",
+        "Ice",
+        "Water",
+        "Steel"
     ],
     "next_evolution": [{
         "num": "008",
@@ -231,6 +283,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Grass"
     ],
+    "resistances": [
+        "Fire",
+        "Ice",
+        "Water",
+        "Steel"
+    ],
     "prev_evolution": [{
         "num": "007",
         "name": "Squirtle"
@@ -258,6 +316,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Grass"
+    ],
+    "resistances": [
+        "Fire",
+        "Ice",
+        "Water",
+        "Steel"
     ],
     "prev_evolution": [{
         "num": "007",
@@ -287,6 +351,11 @@ export const list1GenPokemons = [{
         "Fire",
         "Flying",
         "Rock"
+    ],
+    "resistances": [
+        "Fighting",
+        "Grass",
+        "Ground"
     ],
     "next_evolution": [{
         "num": "011",
@@ -320,6 +389,11 @@ export const list1GenPokemons = [{
         "Flying",
         "Rock"
     ],
+    "resistances": [
+        "Fighting",
+        "Grass",
+        "Ground"
+    ],
     "prev_evolution": [{
         "num": "010",
         "name": "Caterpie"
@@ -351,6 +425,12 @@ export const list1GenPokemons = [{
         "Ice",
         "Flying",
         "Rock"
+    ],
+    "resistances": [
+        "Fighting",
+        "Grass",
+        "Ground",
+        "Bug"
     ],
     "prev_evolution": [{
         "num": "010",
@@ -386,6 +466,13 @@ export const list1GenPokemons = [{
         "Psychic",
         "Rock"
     ],
+    "resistances": [
+        "Fighting",
+        "Grass",
+        "Fairy",
+        "Bug",
+        "Poison"
+    ],
     "next_evolution": [{
         "num": "014",
         "name": "Kakuna"
@@ -420,6 +507,13 @@ export const list1GenPokemons = [{
         "Psychic",
         "Rock"
     ],
+    "resistances": [
+        "Fighting",
+        "Grass",
+        "Fairy",
+        "Bug",
+        "Poison"
+    ],
     "prev_evolution": [{
         "num": "013",
         "name": "Weedle"
@@ -450,6 +544,13 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic",
         "Rock"
+    ],
+    "resistances": [
+        "Fighting",
+        "Grass",
+        "Fairy",
+        "Bug",
+        "Poison"
     ],
     "prev_evolution": [{
         "num": "013",
@@ -483,6 +584,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Rock"
     ],
+    "resistances": [
+        "Grass",
+        "Ghost",
+        "Bug",
+        "Ground"
+    ],
     "next_evolution": [{
         "num": "017",
         "name": "Pidgeotto"
@@ -512,6 +619,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Rock"
     ],
+    "resistances": [
+        "Grass",
+        "Ghost",
+        "Bug",
+        "Ground"
+    ],
     "prev_evolution": [{
         "num": "016",
         "name": "Pidgey"
@@ -540,6 +653,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Rock"
+    ],
+    "resistances": [
+        "Grass",
+        "Ghost",
+        "Bug",
+        "Ground"
     ],
     "prev_evolution": [{
         "num": "016",
@@ -571,6 +690,9 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Fighting"
     ],
+    "resistances": [
+        "Ghost"
+    ],
     "next_evolution": [{
         "num": "020",
         "name": "Raticate"
@@ -593,6 +715,9 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Fighting"
+    ],
+    "resistances": [
+        "Ghost"
     ],
     "prev_evolution": [{
         "num": "019",
@@ -623,6 +748,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Rock"
     ],
+    "resistances": [
+        "Grass",
+        "Ghost",
+        "Bug",
+        "Ground"
+    ],
     "next_evolution": [{
         "num": "022",
         "name": "Fearow"
@@ -647,6 +778,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Rock"
+    ],
+    "resistances": [
+        "Grass",
+        "Ghost",
+        "Bug",
+        "Ground"
     ],
     "prev_evolution": [{
         "num": "021",
@@ -676,6 +813,13 @@ export const list1GenPokemons = [{
         "Ground",
         "Psychic"
     ],
+    "resistances": [
+        "Grass",
+        "Bug",
+        "Fighting",
+        "Poison",
+        "Fairy"
+    ],
     "next_evolution": [{
         "num": "024",
         "name": "Arbok"
@@ -699,6 +843,13 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Ground",
         "Psychic"
+    ],
+    "resistances": [
+        "Grass",
+        "Bug",
+        "Fighting",
+        "Poison",
+        "Fairy"
     ],
     "prev_evolution": [{
         "num": "023",
@@ -724,6 +875,11 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Ground"
     ],
+    "resistances": [
+        "Electric",
+        "Flying",
+        "Steel",
+    ],
     "next_evolution": [{
         "num": "026",
         "name": "Raichu"
@@ -746,6 +902,11 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Ground"
+    ],
+    "resistances": [
+        "Electric",
+        "Flying",
+        "Steel",
     ],
     "prev_evolution": [{
         "num": "025",
@@ -773,6 +934,11 @@ export const list1GenPokemons = [{
         "Grass",
         "Ice"
     ],
+    "resistances": [
+        "Electric",
+        "Poison",
+        "Rock",
+    ],
     "next_evolution": [{
         "num": "028",
         "name": "Sandslash"
@@ -797,6 +963,11 @@ export const list1GenPokemons = [{
         "Water",
         "Grass",
         "Ice"
+    ],
+    "resistances": [
+        "Electric",
+        "Poison",
+        "Rock",
     ],
     "prev_evolution": [{
         "num": "027",
@@ -825,6 +996,13 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Ground",
         "Psychic"
+    ],
+    "resistances": [
+        "Grass",
+        "Bug",
+        "Fighting",
+        "Poison",
+        "Fairy"
     ],
     "next_evolution": [{
         "num": "030",
@@ -857,6 +1035,13 @@ export const list1GenPokemons = [{
         "Ground",
         "Psychic"
     ],
+    "resistances": [
+        "Grass",
+        "Bug",
+        "Fighting",
+        "Poison",
+        "Fairy"
+    ],
     "prev_evolution": [{
         "num": "029",
         "name": "Nidoran(Female)"
@@ -887,6 +1072,14 @@ export const list1GenPokemons = [{
         "Ice",
         "Ground",
         "Psychic"
+    ],
+    "resistances": [
+        "Bug",
+        "Fighting",
+        "Poison",
+        "Fairy",
+        "Rock",
+        "Electric"
     ],
     "prev_evolution": [{
         "num": "029",
@@ -919,6 +1112,13 @@ export const list1GenPokemons = [{
         "Ground",
         "Psychic"
     ],
+    "resistances": [
+        "Grass",
+        "Bug",
+        "Fighting",
+        "Poison",
+        "Fairy"
+    ],
     "next_evolution": [{
         "num": "033",
         "name": "Nidorino"
@@ -946,6 +1146,13 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Ground",
         "Psychic"
+    ],
+    "resistances": [
+        "Grass",
+        "Bug",
+        "Fighting",
+        "Poison",
+        "Fairy"
     ],
     "prev_evolution": [{
         "num": "032",
@@ -978,6 +1185,14 @@ export const list1GenPokemons = [{
         "Ground",
         "Psychic"
     ],
+    "resistances": [
+        "Bug",
+        "Fighting",
+        "Poison",
+        "Fairy",
+        "Rock",
+        "Electric"
+    ],
     "prev_evolution": [{
         "num": "032",
         "name": "Nidoran(Male)"
@@ -1009,6 +1224,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Poison"
     ],
+    "resistances": [
+        "Bug",
+        "Fighting",
+        "Dragon",
+        "Dark"
+    ],
     "next_evolution": [{
         "num": "036",
         "name": "Clefable"
@@ -1032,6 +1253,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Steel",
         "Poison"
+    ],
+    "resistances": [
+        "Bug",
+        "Fighting",
+        "Dragon",
+        "Dark"
     ],
     "prev_evolution": [{
         "num": "035",
@@ -1062,6 +1289,14 @@ export const list1GenPokemons = [{
         "Ground",
         "Rock"
     ],
+    "resistances": [
+        "Grass",
+        "Fairy",
+        "Ice",
+        "Fire",
+        "Bug",
+        "Steel"
+    ],
     "next_evolution": [{
         "num": "038",
         "name": "Ninetales"
@@ -1086,6 +1321,14 @@ export const list1GenPokemons = [{
         "Water",
         "Ground",
         "Rock"
+    ],
+    "resistances": [
+        "Grass",
+        "Fairy",
+        "Ice",
+        "Fire",
+        "Bug",
+        "Steel"
     ],
     "prev_evolution": [{
         "num": "037",
@@ -1113,6 +1356,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Poison"
     ],
+    "resistances": [
+        "Ghost",
+        "Dark",
+        "Bug",
+        "Dragon"
+    ],
     "next_evolution": [{
         "num": "040",
         "name": "Wigglytuff"
@@ -1137,6 +1386,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Steel",
         "Poison"
+    ],
+    "resistances": [
+        "Ghost",
+        "Dark",
+        "Bug",
+        "Dragon"
     ],
     "prev_evolution": [{
         "num": "039",
@@ -1169,6 +1424,14 @@ export const list1GenPokemons = [{
         "Psychic",
         "Rock"
     ],
+    "resistances": [
+        "Fighting",
+        "Fairy",
+        "Bug",
+        "Ground",
+        "Poison",
+        "Grass"
+    ],
     "next_evolution": [{
         "num": "042",
         "name": "Golbat"
@@ -1195,6 +1458,14 @@ export const list1GenPokemons = [{
         "Ice",
         "Psychic",
         "Rock"
+    ],
+    "resistances": [
+        "Fighting",
+        "Fairy",
+        "Bug",
+        "Ground",
+        "Poison",
+        "Grass"
     ],
     "prev_evolution": [{
         "num": "041",
@@ -1223,6 +1494,13 @@ export const list1GenPokemons = [{
         "Ice",
         "Flying",
         "Psychic"
+    ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Grass",
+        "Fighting",
+        "Fairy"
     ],
     "next_evolution": [{
         "num": "044",
@@ -1255,6 +1533,13 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic"
     ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Grass",
+        "Fighting",
+        "Fairy"
+    ],
     "prev_evolution": [{
         "num": "043",
         "name": "Oddish"
@@ -1285,6 +1570,13 @@ export const list1GenPokemons = [{
         "Ice",
         "Flying",
         "Psychic"
+    ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Grass",
+        "Fighting",
+        "Fairy"
     ],
     "prev_evolution": [{
         "num": "043",
@@ -1319,6 +1611,13 @@ export const list1GenPokemons = [{
         "Bug",
         "Rock"
     ],
+    "resistances": [
+        "Ground",
+        "Electric",
+        "Water",
+        "Grass",
+        "Fighting"
+    ],
     "next_evolution": [{
         "num": "047",
         "name": "Parasect"
@@ -1347,6 +1646,13 @@ export const list1GenPokemons = [{
         "Flying",
         "Bug",
         "Rock"
+    ],
+    "resistances": [
+        "Ground",
+        "Electric",
+        "Water",
+        "Grass",
+        "Fighting"
     ],
     "prev_evolution": [{
         "num": "046",
@@ -1379,6 +1685,13 @@ export const list1GenPokemons = [{
         "Psychic",
         "Rock"
     ],
+    "resistances": [
+        "Fighting",
+        "Grass",
+        "Fairy",
+        "Bug",
+        "Poison"
+    ],
     "next_evolution": [{
         "num": "049",
         "name": "Venomoth"
@@ -1406,6 +1719,13 @@ export const list1GenPokemons = [{
         "Psychic",
         "Rock"
     ],
+    "resistances": [
+        "Fighting",
+        "Grass",
+        "Fairy",
+        "Bug",
+        "Poison"
+    ],
     "prev_evolution": [{
         "num": "048",
         "name": "Venonat"
@@ -1432,6 +1752,11 @@ export const list1GenPokemons = [{
         "Grass",
         "Ice"
     ],
+    "resistances": [
+        "Rock",
+        "Electric",
+        "Poison"
+    ],
     "next_evolution": [{
         "num": "051",
         "name": "Dugtrio"
@@ -1457,6 +1782,11 @@ export const list1GenPokemons = [{
         "Grass",
         "Ice"
     ],
+    "resistances": [
+        "Rock",
+        "Electric",
+        "Poison"
+    ],
     "prev_evolution": [{
         "num": "050",
         "name": "Diglett"
@@ -1481,6 +1811,9 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Fighting"
     ],
+    "resistances": [
+        "Ghost"
+    ],
     "next_evolution": [{
         "num": "053",
         "name": "Persian"
@@ -1503,6 +1836,9 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Fighting"
+    ],
+    "resistances": [
+        "Ghost"
     ],
     "prev_evolution": [{
         "num": "052",
@@ -1529,6 +1865,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Grass"
     ],
+    "resistances": [
+        "Fire",
+        "Water",
+        "Ice",
+        "Steel"
+    ],
     "next_evolution": [{
         "num": "055",
         "name": "Golduck"
@@ -1552,6 +1894,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Grass"
+    ],
+    "resistances": [
+        "Fire",
+        "Water",
+        "Ice",
+        "Steel"
     ],
     "prev_evolution": [{
         "num": "054",
@@ -1582,6 +1930,11 @@ export const list1GenPokemons = [{
         "Psychic",
         "Fairy"
     ],
+    "resistances": [
+        "Dark",
+        "Rock",
+        "Bug"
+    ],
     "next_evolution": [{
         "num": "057",
         "name": "Primeape"
@@ -1606,6 +1959,11 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic",
         "Fairy"
+    ],
+    "resistances": [
+        "Dark",
+        "Rock",
+        "Bug"
     ],
     "prev_evolution": [{
         "num": "056",
@@ -1636,6 +1994,14 @@ export const list1GenPokemons = [{
         "Ground",
         "Rock"
     ],
+    "resistances": [
+        "Grass",
+        "Fairy",
+        "Ice",
+        "Fire",
+        "Bug",
+        "Steel"
+    ],
     "next_evolution": [{
         "num": "059",
         "name": "Arcanine"
@@ -1660,6 +2026,14 @@ export const list1GenPokemons = [{
         "Water",
         "Ground",
         "Rock"
+    ],
+    "resistances": [
+        "Grass",
+        "Fairy",
+        "Ice",
+        "Fire",
+        "Bug",
+        "Steel"
     ],
     "prev_evolution": [{
         "num": "058",
@@ -1689,6 +2063,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Grass"
     ],
+    "resistances": [
+        "Fire",
+        "Ice",
+        "Water",
+        "Steel"
+    ],
     "next_evolution": [{
         "num": "061",
         "name": "Poliwhirl"
@@ -1716,6 +2096,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Grass"
+    ],
+    "resistances": [
+        "Fire",
+        "Ice",
+        "Water",
+        "Steel"
     ],
     "prev_evolution": [{
         "num": "060",
@@ -1749,6 +2135,15 @@ export const list1GenPokemons = [{
         "Psychic",
         "Fairy"
     ],
+    "resistances": [
+        "Fire",
+        "Ice",
+        "Water",
+        "Steel",
+        "Bug",
+        "Dark",
+        "Rock"
+    ],
     "prev_evolution": [{
         "num": "060",
         "name": "Poliwag"
@@ -1781,6 +2176,10 @@ export const list1GenPokemons = [{
         "Ghost",
         "Dark"
     ],
+    "resistances": [
+        "Fighting",
+        "Psychic"
+    ],
     "next_evolution": [{
         "num": "064",
         "name": "Kadabra"
@@ -1810,6 +2209,10 @@ export const list1GenPokemons = [{
         "Ghost",
         "Dark"
     ],
+    "resistances": [
+        "Fighting",
+        "Psychic"
+    ],
     "prev_evolution": [{
         "num": "063",
         "name": "Abra"
@@ -1838,6 +2241,10 @@ export const list1GenPokemons = [{
         "Bug",
         "Ghost",
         "Dark"
+    ],
+    "resistances": [
+        "Fighting",
+        "Psychic"
     ],
     "prev_evolution": [{
         "num": "063",
@@ -1871,6 +2278,11 @@ export const list1GenPokemons = [{
         "Psychic",
         "Fairy"
     ],
+    "resistances": [
+        "Bug",
+        "Dark",
+        "Rock"
+    ],
     "next_evolution": [{
         "num": "067",
         "name": "Machoke"
@@ -1900,6 +2312,11 @@ export const list1GenPokemons = [{
         "Psychic",
         "Fairy"
     ],
+    "resistances": [
+        "Bug",
+        "Dark",
+        "Rock"
+    ],
     "prev_evolution": [{
         "num": "066",
         "name": "Machop"
@@ -1928,6 +2345,11 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic",
         "Fairy"
+    ],
+    "resistances": [
+        "Bug",
+        "Dark",
+        "Rock"
     ],
     "prev_evolution": [{
         "num": "066",
@@ -1960,6 +2382,13 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic"
     ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Grass",
+        "Fighting",
+        "Fairy"
+    ],
     "next_evolution": [{
         "num": "070",
         "name": "Weepinbell"
@@ -1990,6 +2419,13 @@ export const list1GenPokemons = [{
         "Ice",
         "Flying",
         "Psychic"
+    ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Grass",
+        "Fighting",
+        "Fairy"
     ],
     "prev_evolution": [{
         "num": "069",
@@ -2022,6 +2458,13 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic"
     ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Grass",
+        "Fighting",
+        "Fairy"
+    ],
     "prev_evolution": [{
         "num": "069",
         "name": "Bellsprout"
@@ -2052,6 +2495,15 @@ export const list1GenPokemons = [{
         "Ground",
         "Psychic"
     ],
+    "resistances": [
+        "Water",
+        "Steel",
+        "Ice",
+        "Fighting",
+        "Fairy",
+        "Bug",
+        "Fire"
+    ],
     "next_evolution": [{
         "num": "073",
         "name": "Tentacruel"
@@ -2077,6 +2529,15 @@ export const list1GenPokemons = [{
         "Electric",
         "Ground",
         "Psychic"
+    ],
+    "resistances": [
+        "Water",
+        "Steel",
+        "Ice",
+        "Fighting",
+        "Fairy",
+        "Bug",
+        "Fire"
     ],
     "prev_evolution": [{
         "num": "072",
@@ -2110,6 +2571,14 @@ export const list1GenPokemons = [{
         "Fighting",
         "Ground",
         "Steel"
+    ],
+    "resistances": [
+        "Flying",
+        "Poison",
+        "Fire",
+        "Electric",
+        "Normal",
+        "Rock"
     ],
     "next_evolution": [{
         "num": "075",
@@ -2147,6 +2616,14 @@ export const list1GenPokemons = [{
         "Ground",
         "Steel"
     ],
+    "resistances": [
+        "Flying",
+        "Poison",
+        "Fire",
+        "Electric",
+        "Normal",
+        "Rock"
+    ],
     "prev_evolution": [{
         "num": "074",
         "name": "Geodude"
@@ -2180,6 +2657,14 @@ export const list1GenPokemons = [{
         "Ground",
         "Steel"
     ],
+    "resistances": [
+        "Flying",
+        "Poison",
+        "Fire",
+        "Electric",
+        "Normal",
+        "Rock"
+    ],
     "prev_evolution": [{
         "num": "074",
         "name": "Geodude"
@@ -2212,6 +2697,14 @@ export const list1GenPokemons = [{
         "Ground",
         "Rock"
     ],
+    "resistances": [
+        "Grass",
+        "Fairy",
+        "Ice",
+        "Fire",
+        "Bug",
+        "Steel"
+    ],
     "next_evolution": [{
         "num": "078",
         "name": "Rapidash"
@@ -2236,6 +2729,14 @@ export const list1GenPokemons = [{
         "Water",
         "Ground",
         "Rock"
+    ],
+    "resistances": [
+        "Grass",
+        "Fairy",
+        "Ice",
+        "Fire",
+        "Bug",
+        "Steel"
     ],
     "prev_evolution": [{
         "num": "077",
@@ -2266,6 +2767,14 @@ export const list1GenPokemons = [{
         "Ghost",
         "Dark"
     ],
+    "resistances": [
+        "Water",
+        "Ice",
+        "Steel",
+        "Fire",
+        "Psychic",
+        "Fighting"
+    ],
     "next_evolution": [{
         "num": "080",
         "name": "Slowbro"
@@ -2294,6 +2803,14 @@ export const list1GenPokemons = [{
         "Ghost",
         "Dark"
     ],
+    "resistances": [
+        "Water",
+        "Ice",
+        "Steel",
+        "Fire",
+        "Psychic",
+        "Fighting"
+    ],
     "prev_evolution": [{
         "num": "079",
         "name": "Slowpoke"
@@ -2304,7 +2821,8 @@ export const list1GenPokemons = [{
     "name": "Magnemite",
     "img": "http://www.serebii.net/pokemongo/pokemon/081.png",
     "type": [
-        "Electric"
+        "Electric",
+        "Steel"
     ],
     "height": "0.30 m",
     "weight": "6.0 kg",
@@ -2320,8 +2838,22 @@ export const list1GenPokemons = [{
     ],
     "weaknesses": [
         "Fire",
-        "Water",
+        "Fighting",
         "Ground"
+    ],
+    "resistances": [
+        "Electric",
+        "Flying",
+        "Steel",
+        "Grass",
+        "Fairy",
+        "Poison",
+        "Ice",
+        "Dragon",
+        "Bug",
+        "Normal",
+        "Rock",
+        "Psychic"
     ],
     "next_evolution": [{
         "num": "082",
@@ -2333,7 +2865,8 @@ export const list1GenPokemons = [{
     "name": "Magneton",
     "img": "http://www.serebii.net/pokemongo/pokemon/082.png",
     "type": [
-        "Electric"
+        "Electric",
+        "Steel"
     ],
     "height": "0.99 m",
     "weight": "60.0 kg",
@@ -2345,8 +2878,22 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Fire",
-        "Water",
+        "Fighting",
         "Ground"
+    ],
+    "resistances": [
+        "Electric",
+        "Flying",
+        "Steel",
+        "Grass",
+        "Fairy",
+        "Poison",
+        "Ice",
+        "Dragon",
+        "Bug",
+        "Normal",
+        "Rock",
+        "Psychic"
     ],
     "prev_evolution": [{
         "num": "081",
@@ -2371,8 +2918,15 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Electric",
-        "Rock"
-    ]
+        "Rock",
+        "Ice"
+    ],
+    "resistances": [
+        "Grass",
+        "Ghost",
+        "Bug",
+        "Ground"
+    ],
 }, {
     "id": 84,
     "num": "084",
@@ -2396,7 +2950,14 @@ export const list1GenPokemons = [{
     ],
     "weaknesses": [
         "Electric",
-        "Rock"
+        "Rock",
+        "Ice"
+    ],
+    "resistances": [
+        "Grass",
+        "Ghost",
+        "Bug",
+        "Ground"
     ],
     "next_evolution": [{
         "num": "085",
@@ -2421,7 +2982,14 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Electric",
-        "Rock"
+        "Rock",
+        "Ice"
+    ],
+    "resistances": [
+        "Grass",
+        "Ghost",
+        "Bug",
+        "Ground"
     ],
     "prev_evolution": [{
         "num": "084",
@@ -2451,6 +3019,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Grass"
     ],
+    "resistances": [
+        "Water",
+        "Ice",
+        "Fire",
+        "Steel"
+    ],
     "next_evolution": [{
         "num": "087",
         "name": "Dewgong"
@@ -2478,6 +3052,10 @@ export const list1GenPokemons = [{
         "Fighting",
         "Rock"
     ],
+    "resistances": [
+        "Water",
+        "Ice"
+    ],
     "prev_evolution": [{
         "num": "086",
         "name": "Seel"
@@ -2503,6 +3081,13 @@ export const list1GenPokemons = [{
         "Ground",
         "Psychic"
     ],
+    "resistances": [
+        "Bug",
+        "Poison",
+        "Fairy",
+        "Fighting",
+        "Grass"
+    ],
     "next_evolution": [{
         "num": "089",
         "name": "Muk"
@@ -2526,6 +3111,13 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Ground",
         "Psychic"
+    ],
+    "resistances": [
+        "Bug",
+        "Poison",
+        "Fairy",
+        "Fighting",
+        "Grass"
     ],
     "prev_evolution": [{
         "num": "088",
@@ -2551,6 +3143,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Grass"
+    ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Fire",
+        "Steel"
     ],
     "next_evolution": [{
         "num": "091",
@@ -2579,6 +3177,10 @@ export const list1GenPokemons = [{
         "Fighting",
         "Rock"
     ],
+    "resistances": [
+        "Ice",
+        "Water"
+    ],
     "prev_evolution": [{
         "num": "090",
         "name": "Shellder"
@@ -2606,6 +3208,14 @@ export const list1GenPokemons = [{
         "Psychic",
         "Ghost",
         "Dark"
+    ],
+    "resistances": [
+        "Poison",
+        "Bug",
+        "Fairy",
+        "Grass",
+        "Fighting",
+        "Normal"
     ],
     "next_evolution": [{
         "num": "093",
@@ -2641,6 +3251,14 @@ export const list1GenPokemons = [{
         "Ghost",
         "Dark"
     ],
+    "resistances": [
+        "Poison",
+        "Bug",
+        "Fairy",
+        "Grass",
+        "Fighting",
+        "Normal"
+    ],
     "prev_evolution": [{
         "num": "092",
         "name": "Gastly"
@@ -2671,6 +3289,14 @@ export const list1GenPokemons = [{
         "Psychic",
         "Ghost",
         "Dark"
+    ],
+    "resistances": [
+        "Poison",
+        "Bug",
+        "Fairy",
+        "Grass",
+        "Fighting",
+        "Normal"
     ],
     "prev_evolution": [{
         "num": "092",
@@ -2703,7 +3329,15 @@ export const list1GenPokemons = [{
         "Fighting",
         "Ground",
         "Steel"
-    ]
+    ],
+    "resistances": [
+        "Flying",
+        "Poison",
+        "Fire",
+        "Electric",
+        "Normal",
+        "Rock"
+    ],
 }, {
     "id": 96,
     "num": "096",
@@ -2729,6 +3363,10 @@ export const list1GenPokemons = [{
         "Ghost",
         "Dark"
     ],
+    "resistances": [
+        "Fighting",
+        "Phychic"
+    ],
     "next_evolution": [{
         "num": "097",
         "name": "Hypno"
@@ -2753,6 +3391,10 @@ export const list1GenPokemons = [{
         "Bug",
         "Ghost",
         "Dark"
+    ],
+    "resistances": [
+        "Fighting",
+        "Phychic"
     ],
     "prev_evolution": [{
         "num": "096",
@@ -2782,6 +3424,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Grass"
     ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire"
+    ],
     "next_evolution": [{
         "num": "099",
         "name": "Kingler"
@@ -2805,6 +3453,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Grass"
+    ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire"
     ],
     "prev_evolution": [{
         "num": "098",
@@ -2833,6 +3487,11 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Ground"
     ],
+    "resistances": [
+        "Steel",
+        "Electric",
+        "Flying"
+    ],
     "next_evolution": [{
         "num": "101",
         "name": "Electrode"
@@ -2855,6 +3514,11 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Ground"
+    ],
+    "resistances": [
+        "Steel",
+        "Electric",
+        "Flying"
     ],
     "prev_evolution": [{
         "num": "100",
@@ -2890,6 +3554,14 @@ export const list1GenPokemons = [{
         "Ghost",
         "Dark"
     ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Ground",
+        "Grass",
+        "Psychic",
+        "Fighting"
+    ],
     "next_evolution": [{
         "num": "103",
         "name": "Exeggutor"
@@ -2920,6 +3592,14 @@ export const list1GenPokemons = [{
         "Ghost",
         "Dark"
     ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Ground",
+        "Grass",
+        "Psychic",
+        "Fighting"
+    ],
     "prev_evolution": [{
         "num": "102",
         "name": "Exeggcute"
@@ -2946,6 +3626,11 @@ export const list1GenPokemons = [{
         "Grass",
         "Ice"
     ],
+    "resistances": [
+        "Poison",
+        "Electric",
+        "Rock"
+    ],
     "next_evolution": [{
         "num": "105",
         "name": "Marowak"
@@ -2971,6 +3656,11 @@ export const list1GenPokemons = [{
         "Grass",
         "Ice"
     ],
+    "resistances": [
+        "Poison",
+        "Electric",
+        "Rock"
+    ],
     "prev_evolution": [{
         "num": "104",
         "name": "Cubone"
@@ -2995,7 +3685,12 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic",
         "Fairy"
-    ]
+    ],
+    "resistances": [
+        "Rock",
+        "Dark",
+        "Bug"
+    ],
 }, {
     "id": 107,
     "num": "107",
@@ -3016,7 +3711,12 @@ export const list1GenPokemons = [{
         "Flying",
         "Psychic",
         "Fairy"
-    ]
+    ],
+    "resistances": [
+        "Rock",
+        "Dark",
+        "Bug"
+    ],
 }, {
     "id": 108,
     "num": "108",
@@ -3035,7 +3735,10 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Fighting"
-    ]
+    ],
+    "resistances": [
+        "Ghost"
+    ],
 }, {
     "id": 109,
     "num": "109",
@@ -3056,6 +3759,13 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Ground",
         "Psychic"
+    ],
+    "resistances": [
+        "Grass",
+        "Bug",
+        "Poison",
+        "Fairy",
+        "Fighting"
     ],
     "next_evolution": [{
         "num": "110",
@@ -3080,6 +3790,13 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Ground",
         "Psychic"
+    ],
+    "resistances": [
+        "Grass",
+        "Bug",
+        "Poison",
+        "Fairy",
+        "Fighting"
     ],
     "prev_evolution": [{
         "num": "109",
@@ -3111,6 +3828,14 @@ export const list1GenPokemons = [{
         "Ground",
         "Steel"
     ],
+    "resistances": [
+        "Flying",
+        "Poison",
+        "Fire",
+        "Electric",
+        "Normal",
+        "Rock"
+    ],
     "next_evolution": [{
         "num": "112",
         "name": "Rhydon"
@@ -3140,6 +3865,14 @@ export const list1GenPokemons = [{
         "Ground",
         "Steel"
     ],
+    "resistances": [
+        "Flying",
+        "Poison",
+        "Fire",
+        "Electric",
+        "Normal",
+        "Rock"
+    ],
     "prev_evolution": [{
         "num": "111",
         "name": "Rhyhorn"
@@ -3162,7 +3895,10 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Fighting"
-    ]
+    ],
+    "resistances": [
+        "Ghost"
+    ],
 }, {
     "id": 114,
     "num": "114",
@@ -3185,7 +3921,13 @@ export const list1GenPokemons = [{
         "Poison",
         "Flying",
         "Bug"
-    ]
+    ],
+    "resistances": [
+        "Water",
+        "Electric",
+        "Grass",
+        "Ground"
+    ],
 }, {
     "id": 115,
     "num": "115",
@@ -3204,7 +3946,10 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Fighting"
-    ]
+    ],
+    "resistances": [
+        "Ghost"
+    ],
 }, {
     "id": 116,
     "num": "116",
@@ -3225,6 +3970,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Grass"
+    ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire"
     ],
     "next_evolution": [{
         "num": "117",
@@ -3249,6 +4000,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Grass"
+    ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire"
     ],
     "prev_evolution": [{
         "num": "116",
@@ -3278,6 +4035,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Grass"
     ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire"
+    ],
     "next_evolution": [{
         "num": "119",
         "name": "Seaking"
@@ -3301,6 +4064,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Grass"
+    ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire"
     ],
     "prev_evolution": [{
         "num": "118",
@@ -3330,6 +4099,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Grass"
     ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire"
+    ],
     "next_evolution": [{
         "num": "121",
         "name": "Starmie"
@@ -3358,6 +4133,14 @@ export const list1GenPokemons = [{
         "Ghost",
         "Dark"
     ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire",
+        "Psychic",
+        "Fighting"
+    ],
     "prev_evolution": [{
         "num": "120",
         "name": "Staryu"
@@ -3382,7 +4165,11 @@ export const list1GenPokemons = [{
         "Bug",
         "Ghost",
         "Dark"
-    ]
+    ],
+    "resistances": [
+        "Fighting",
+        "Psychic"
+    ],
 }, {
     "id": 123,
     "num": "123",
@@ -3406,7 +4193,13 @@ export const list1GenPokemons = [{
         "Ice",
         "Flying",
         "Rock"
-    ]
+    ],
+    "resistances": [
+        "Ground",
+        "Bug",
+        "Fighting",
+        "Grass"
+    ],
 }, {
     "id": 124,
     "num": "124",
@@ -3431,7 +4224,12 @@ export const list1GenPokemons = [{
         "Ghost",
         "Dark",
         "Steel"
-    ]
+    ],
+    "resistances": [
+        "Fighting",
+        "Ice",
+        "Psychic"
+    ],
 }, {
     "id": 125,
     "num": "125",
@@ -3450,7 +4248,12 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Ground"
-    ]
+    ],
+    "resistances": [
+        "Flying",
+        "Electric",
+        "Steel"
+    ],
 }, {
     "id": 126,
     "num": "126",
@@ -3471,7 +4274,15 @@ export const list1GenPokemons = [{
         "Water",
         "Ground",
         "Rock"
-    ]
+    ],
+    "resistances": [
+        "Grass",
+        "Steel",
+        "Fire",
+        "Bug",
+        "Ice",
+        "Fairy"
+    ],
 }, {
     "id": 127,
     "num": "127",
@@ -3492,7 +4303,12 @@ export const list1GenPokemons = [{
         "Fire",
         "Flying",
         "Rock"
-    ]
+    ],
+    "resistances": [
+        "Ground",
+        "Fighting",
+        "Grass"
+    ],
 }, {
     "id": 128,
     "num": "128",
@@ -3511,7 +4327,10 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Fighting"
-    ]
+    ],
+    "resistances": [
+        "Ghost"
+    ],
 }, {
     "id": 129,
     "num": "129",
@@ -3535,6 +4354,12 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Grass"
+    ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire"
     ],
     "next_evolution": [{
         "num": "130",
@@ -3560,6 +4385,15 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Electric",
         "Rock"
+    ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire",
+        "Fighting",
+        "Bug",
+        "Ground"
     ],
     "prev_evolution": [{
         "num": "129",
@@ -3587,7 +4421,11 @@ export const list1GenPokemons = [{
         "Grass",
         "Fighting",
         "Rock"
-    ]
+    ],
+    "resistances": [
+        "Ice",
+        "Water"
+    ],
 }, {
     "id": 132,
     "num": "132",
@@ -3606,7 +4444,10 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Fighting"
-    ]
+    ],
+    "resistances": [
+        "Ghost"
+    ],
 }, {
     "id": 133,
     "num": "133",
@@ -3629,6 +4470,9 @@ export const list1GenPokemons = [{
     ],
     "weaknesses": [
         "Fighting"
+    ],
+    "resistances": [
+        "Ghost"
     ],
     "next_evolution": [{
         "num": "134",
@@ -3660,6 +4504,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Grass"
     ],
+    "resistances": [
+        "Ice",
+        "Water",
+        "Steel",
+        "Fire"
+    ],
     "prev_evolution": [{
         "num": "133",
         "name": "Eevee"
@@ -3682,6 +4532,11 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Ground"
+    ],
+    "resistances": [
+        "Steel",
+        "Flying",
+        "Electric"
     ],
     "prev_evolution": [{
         "num": "133",
@@ -3708,6 +4563,14 @@ export const list1GenPokemons = [{
         "Ground",
         "Rock"
     ],
+    "resistances": [
+        "Ice",
+        "Bug",
+        "Steel",
+        "Fire",
+        "Fairy",
+        "Grass"
+    ],
     "prev_evolution": [{
         "num": "133",
         "name": "Eevee"
@@ -3730,7 +4593,10 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Fighting"
-    ]
+    ],
+    "resistances": [
+        "Ghost"
+    ],
 }, {
     "id": 138,
     "num": "138",
@@ -3754,6 +4620,13 @@ export const list1GenPokemons = [{
         "Grass",
         "Fighting",
         "Ground"
+    ],
+    "resistances": [
+        "Normal",
+        "Poison",
+        "Flying",
+        "Fire",
+        "Ice"
     ],
     "next_evolution": [{
         "num": "139",
@@ -3781,6 +4654,13 @@ export const list1GenPokemons = [{
         "Grass",
         "Fighting",
         "Ground"
+    ],
+    "resistances": [
+        "Normal",
+        "Poison",
+        "Flying",
+        "Fire",
+        "Ice"
     ],
     "prev_evolution": [{
         "num": "138",
@@ -3813,6 +4693,13 @@ export const list1GenPokemons = [{
         "Fighting",
         "Ground"
     ],
+    "resistances": [
+        "Normal",
+        "Poison",
+        "Flying",
+        "Fire",
+        "Ice"
+    ],
     "next_evolution": [{
         "num": "141",
         "name": "Kabutops"
@@ -3839,6 +4726,13 @@ export const list1GenPokemons = [{
         "Grass",
         "Fighting",
         "Ground"
+    ],
+    "resistances": [
+        "Normal",
+        "Poison",
+        "Flying",
+        "Fire",
+        "Ice"
     ],
     "prev_evolution": [{
         "num": "140",
@@ -3867,7 +4761,15 @@ export const list1GenPokemons = [{
         "Ice",
         "Rock",
         "Steel"
-    ]
+    ],
+    "resistances": [
+        "Normal",
+        "Poison",
+        "Flying",
+        "Fire",
+        "Ground",
+        "Bug"
+    ],
 }, {
     "id": 143,
     "num": "143",
@@ -3886,7 +4788,10 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Fighting"
-    ]
+    ],
+    "resistances": [
+        "Ghost"
+    ],
 }, {
     "id": 144,
     "num": "144",
@@ -3909,7 +4814,11 @@ export const list1GenPokemons = [{
         "Electric",
         "Rock",
         "Steel"
-    ]
+    ],
+    "resistances": [
+        "Bug",
+        "Ground"
+    ],
 }, {
     "id": 145,
     "num": "145",
@@ -3930,7 +4839,14 @@ export const list1GenPokemons = [{
     "weaknesses": [
         "Ice",
         "Rock"
-    ]
+    ],
+    "resistances": [
+        "Steel",
+        "Flying",
+        "Fighting",
+        "Bug",
+        "Ground"
+    ],
 }, {
     "id": 146,
     "num": "146",
@@ -3952,7 +4868,16 @@ export const list1GenPokemons = [{
         "Water",
         "Electric",
         "Rock"
-    ]
+    ],
+    "resistances": [
+        "Grass",
+        "Fairy",
+        "Fire",
+        "Bug",
+        "Steel",
+        "Fighting",
+        "Ground"
+    ],
 }, {
     "id": 147,
     "num": "147",
@@ -3977,6 +4902,12 @@ export const list1GenPokemons = [{
         "Ice",
         "Dragon",
         "Fairy"
+    ],
+    "resistances": [
+        "Grass",
+        "Electric",
+        "Water",
+        "Fire"
     ],
     "next_evolution": [{
         "num": "148",
@@ -4006,6 +4937,12 @@ export const list1GenPokemons = [{
         "Ice",
         "Dragon",
         "Fairy"
+    ],
+    "resistances": [
+        "Grass",
+        "Electric",
+        "Water",
+        "Fire"
     ],
     "prev_evolution": [{
         "num": "147",
@@ -4038,6 +4975,14 @@ export const list1GenPokemons = [{
         "Dragon",
         "Fairy"
     ],
+    "resistances": [
+        "Grass",
+        "Water",
+        "Fire",
+        "Bug",
+        "Fighting",
+        "Ground"
+    ],
     "prev_evolution": [{
         "num": "147",
         "name": "Dratini"
@@ -4065,7 +5010,11 @@ export const list1GenPokemons = [{
         "Bug",
         "Ghost",
         "Dark"
-    ]
+    ],
+    "resistances": [
+        "Fighting",
+        "Psychic"
+    ],
 }, {
     "id": 151,
     "num": "151",
@@ -4086,5 +5035,9 @@ export const list1GenPokemons = [{
         "Bug",
         "Ghost",
         "Dark"
-    ]
+    ],
+    "resistances": [
+        "Fighting",
+        "Psychic"
+    ],
 }];
