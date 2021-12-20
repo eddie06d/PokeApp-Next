@@ -3,6 +3,7 @@ export const list1GenPokemons = [{
     "num": "001",
     "name": "Bulbasaur",
     "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/001.png",
     "type": [
         "Grass",
         "Poison"
@@ -29,6 +30,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 113,
+        "attack": 133,
+        "defense": 126
+    },
+    "maxCP": 1260,
     "next_evolution": [{
         "num": "002",
         "name": "Ivysaur"
@@ -41,6 +48,7 @@ export const list1GenPokemons = [{
     "num": "002",
     "name": "Ivysaur",
     "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/002.png",
     "type": [
         "Grass",
         "Poison"
@@ -70,6 +78,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 125,
+        "attack": 166,
+        "defense": 158
+    },
+    "maxCP": 1921,
     "prev_evolution": [{
         "num": "001",
         "name": "Bulbasaur"
@@ -83,6 +97,7 @@ export const list1GenPokemons = [{
     "num": "003",
     "name": "Venusaur",
     "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/003.png",
     "type": [
         "Grass",
         "Poison"
@@ -108,6 +123,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 119,
+        "attack": 213,
+        "defense": 204
+    },
+    "maxCP": 3075,
     "prev_evolution": [{
         "num": "001",
         "name": "Bulbasaur"
@@ -120,6 +141,7 @@ export const list1GenPokemons = [{
     "num": "004",
     "name": "Charmander",
     "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/004.png",
     "type": [
         "Fire"
     ],
@@ -145,6 +167,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Steel"
     ],
+    "stats": {
+        "stamina": 105,
+        "attack": 131,
+        "defense": 108
+    },
+    "maxCP": 1108,
     "next_evolution": [{
         "num": "005",
         "name": "Charmeleon"
@@ -157,6 +185,7 @@ export const list1GenPokemons = [{
     "num": "005",
     "name": "Charmeleon",
     "img": "http://www.serebii.net/pokemongo/pokemon/005.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/005.png",
     "type": [
         "Fire"
     ],
@@ -182,6 +211,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Steel"
     ],
+    "stats": {
+        "stamina": 124,
+        "attack": 173,
+        "defense": 141
+    },
+    "maxCP": 1868,
     "prev_evolution": [{
         "num": "004",
         "name": "Charmander"
@@ -195,6 +230,7 @@ export const list1GenPokemons = [{
     "num": "006",
     "name": "Charizard",
     "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/006.png",
     "type": [
         "Fire",
         "Flying"
@@ -221,6 +257,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Ground"
     ],
+    "stats": {
+        "stamina": 113,
+        "attack": 238,
+        "defense": 188
+    },
+    "maxCP": 3266,
     "prev_evolution": [{
         "num": "004",
         "name": "Charmander"
@@ -233,6 +275,7 @@ export const list1GenPokemons = [{
     "num": "007",
     "name": "Squirtle",
     "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/007.png",
     "type": [
         "Water"
     ],
@@ -255,6 +298,12 @@ export const list1GenPokemons = [{
         "Water",
         "Steel"
     ],
+    "stats": {
+        "stamina": 112,
+        "attack": 109,
+        "defense": 136
+    },
+    "maxCP": 1069,
     "next_evolution": [{
         "num": "008",
         "name": "Wartortle"
@@ -267,6 +316,7 @@ export const list1GenPokemons = [{
     "num": "008",
     "name": "Wartortle",
     "img": "http://www.serebii.net/pokemongo/pokemon/008.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/008.png",
     "type": [
         "Water"
     ],
@@ -289,6 +339,12 @@ export const list1GenPokemons = [{
         "Water",
         "Steel"
     ],
+    "stats": {
+        "stamina": 132,
+        "attack": 141,
+        "defense": 170
+    },
+    "maxCP": 1682,
     "prev_evolution": [{
         "num": "007",
         "name": "Squirtle"
@@ -302,6 +358,7 @@ export const list1GenPokemons = [{
     "num": "009",
     "name": "Blastoise",
     "img": "http://www.serebii.net/pokemongo/pokemon/009.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/009.png",
     "type": [
         "Water"
     ],
@@ -323,6 +380,12 @@ export const list1GenPokemons = [{
         "Water",
         "Steel"
     ],
+    "stats": {
+        "stamina": 124,
+        "attack": 186,
+        "defense": 222
+    },
+    "maxCP": 2788,
     "prev_evolution": [{
         "num": "007",
         "name": "Squirtle"
@@ -335,6 +398,7 @@ export const list1GenPokemons = [{
     "num": "010",
     "name": "Caterpie",
     "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/010.png",
     "type": [
         "Bug"
     ],
@@ -357,6 +421,12 @@ export const list1GenPokemons = [{
         "Grass",
         "Ground"
     ],
+    "stats": {
+        "stamina": 113,
+        "attack": 70,
+        "defense": 70
+    },
+    "maxCP": 494,
     "next_evolution": [{
         "num": "011",
         "name": "Metapod"
@@ -369,6 +439,7 @@ export const list1GenPokemons = [{
     "num": "011",
     "name": "Metapod",
     "img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/011.png",
     "type": [
         "Bug"
     ],
@@ -394,6 +465,12 @@ export const list1GenPokemons = [{
         "Grass",
         "Ground"
     ],
+    "stats": {
+        "stamina": 120,
+        "attack": 60,
+        "defense": 95
+    },
+    "maxCP": 509,
     "prev_evolution": [{
         "num": "010",
         "name": "Caterpie"
@@ -407,6 +484,7 @@ export const list1GenPokemons = [{
     "num": "012",
     "name": "Butterfree",
     "img": "http://www.serebii.net/pokemongo/pokemon/012.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/012.png",
     "type": [
         "Bug",
         "Flying"
@@ -432,6 +510,12 @@ export const list1GenPokemons = [{
         "Ground",
         "Bug"
     ],
+    "stats": {
+        "stamina": 121,
+        "attack": 182,
+        "defense": 152
+    },
+    "maxCP": 2065,
     "prev_evolution": [{
         "num": "010",
         "name": "Caterpie"
@@ -444,6 +528,7 @@ export const list1GenPokemons = [{
     "num": "013",
     "name": "Weedle",
     "img": "http://www.serebii.net/pokemongo/pokemon/013.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/013.png",
     "type": [
         "Bug",
         "Poison"
@@ -473,6 +558,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Poison"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 78,
+        "defense": 65
+    },
+    "maxCP": 515,
     "next_evolution": [{
         "num": "014",
         "name": "Kakuna"
@@ -485,6 +576,7 @@ export const list1GenPokemons = [{
     "num": "014",
     "name": "Kakuna",
     "img": "http://www.serebii.net/pokemongo/pokemon/014.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/014.png",
     "type": [
         "Bug",
         "Poison"
@@ -514,6 +606,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Poison"
     ],
+    "stats": {
+        "stamina": 113,
+        "attack": 61,
+        "defense": 90
+    },
+    "maxCP": 488,
     "prev_evolution": [{
         "num": "013",
         "name": "Weedle"
@@ -527,6 +625,7 @@ export const list1GenPokemons = [{
     "num": "015",
     "name": "Beedrill",
     "img": "http://www.serebii.net/pokemongo/pokemon/015.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/015.png",
     "type": [
         "Bug",
         "Poison"
@@ -552,6 +651,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Poison"
     ],
+    "stats": {
+        "stamina": 125,
+        "attack": 184,
+        "defense": 145
+    },
+    "maxCP": 2087,
     "prev_evolution": [{
         "num": "013",
         "name": "Weedle"
@@ -564,6 +669,7 @@ export const list1GenPokemons = [{
     "num": "016",
     "name": "Pidgey",
     "img": "http://www.serebii.net/pokemongo/pokemon/016.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/016.png",
     "type": [
         "Normal",
         "Flying"
@@ -590,6 +696,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 100,
+        "defense": 88
+    },
+    "maxCP": 769,
     "next_evolution": [{
         "num": "017",
         "name": "Pidgeotto"
@@ -602,6 +714,7 @@ export const list1GenPokemons = [{
     "num": "017",
     "name": "Pidgeotto",
     "img": "http://www.serebii.net/pokemongo/pokemon/017.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/017.png",
     "type": [
         "Normal",
         "Flying"
@@ -625,6 +738,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 138,
+        "attack": 132,
+        "defense": 120
+    },
+    "maxCP": 1350,
     "prev_evolution": [{
         "num": "016",
         "name": "Pidgey"
@@ -638,6 +757,7 @@ export const list1GenPokemons = [{
     "num": "018",
     "name": "Pidgeot",
     "img": "http://www.serebii.net/pokemongo/pokemon/018.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/018.png",
     "type": [
         "Normal",
         "Flying"
@@ -652,7 +772,8 @@ export const list1GenPokemons = [{
     "multipliers": null,
     "weaknesses": [
         "Electric",
-        "Rock"
+        "Rock",
+        "Ice"
     ],
     "resistances": [
         "Grass",
@@ -660,6 +781,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 138,
+        "attack": 181,
+        "defense": 169
+    },
+    "maxCP": 2407,
     "prev_evolution": [{
         "num": "016",
         "name": "Pidgey"
@@ -672,6 +799,7 @@ export const list1GenPokemons = [{
     "num": "019",
     "name": "Rattata",
     "img": "http://www.serebii.net/pokemongo/pokemon/019.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/019.png",
     "type": [
         "Normal"
     ],
@@ -693,6 +821,12 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 92,
+        "attack": 118,
+        "defense": 85
+    },
+    "maxCP": 831,
     "next_evolution": [{
         "num": "020",
         "name": "Raticate"
@@ -702,6 +836,7 @@ export const list1GenPokemons = [{
     "num": "020",
     "name": "Raticate",
     "img": "http://www.serebii.net/pokemongo/pokemon/020.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/020.png",
     "type": [
         "Normal"
     ],
@@ -719,6 +854,12 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 118,
+        "attack": 176,
+        "defense": 154
+    },
+    "maxCP": 1957,
     "prev_evolution": [{
         "num": "019",
         "name": "Rattata"
@@ -728,6 +869,7 @@ export const list1GenPokemons = [{
     "num": "021",
     "name": "Spearow",
     "img": "http://www.serebii.net/pokemongo/pokemon/021.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/021.png",
     "type": [
         "Normal",
         "Flying"
@@ -754,6 +896,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 127,
+        "defense": 75
+    },
+    "maxCP": 902,
     "next_evolution": [{
         "num": "022",
         "name": "Fearow"
@@ -763,6 +911,7 @@ export const list1GenPokemons = [{
     "num": "022",
     "name": "Fearow",
     "img": "http://www.serebii.net/pokemongo/pokemon/022.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/022.png",
     "type": [
         "Normal",
         "Flying"
@@ -785,6 +934,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 121,
+        "attack": 197,
+        "defense": 148
+    },
+    "maxCP": 2257,
     "prev_evolution": [{
         "num": "021",
         "name": "Spearow"
@@ -794,6 +949,7 @@ export const list1GenPokemons = [{
     "num": "023",
     "name": "Ekans",
     "img": "http://www.serebii.net/pokemongo/pokemon/023.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/023.png",
     "type": [
         "Poison"
     ],
@@ -820,6 +976,12 @@ export const list1GenPokemons = [{
         "Poison",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 99,
+        "attack": 125,
+        "defense": 112
+    },
+    "maxCP": 1048,
     "next_evolution": [{
         "num": "024",
         "name": "Arbok"
@@ -829,6 +991,7 @@ export const list1GenPokemons = [{
     "num": "024",
     "name": "Arbok",
     "img": "http://www.serebii.net/pokemongo/pokemon/024.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/024.png",
     "type": [
         "Poison"
     ],
@@ -851,6 +1014,12 @@ export const list1GenPokemons = [{
         "Poison",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 118,
+        "attack": 182,
+        "defense": 168
+    },
+    "maxCP": 2171,
     "prev_evolution": [{
         "num": "023",
         "name": "Ekans"
@@ -860,6 +1029,7 @@ export const list1GenPokemons = [{
     "num": "025",
     "name": "Pikachu",
     "img": "http://www.serebii.net/pokemongo/pokemon/025.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/025.png",
     "type": [
         "Electric"
     ],
@@ -880,6 +1050,12 @@ export const list1GenPokemons = [{
         "Flying",
         "Steel",
     ],
+    "stats": {
+        "stamina": 99,
+        "attack": 127,
+        "defense": 111
+    },
+    "maxCP": 1060,
     "next_evolution": [{
         "num": "026",
         "name": "Raichu"
@@ -889,6 +1065,7 @@ export const list1GenPokemons = [{
     "num": "026",
     "name": "Raichu",
     "img": "http://www.serebii.net/pokemongo/pokemon/026.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/026.png",
     "type": [
         "Electric"
     ],
@@ -908,6 +1085,12 @@ export const list1GenPokemons = [{
         "Flying",
         "Steel",
     ],
+    "stats": {
+        "stamina": 111,
+        "attack": 208,
+        "defense": 166
+    },
+    "maxCP": 2467,
     "prev_evolution": [{
         "num": "025",
         "name": "Pikachu"
@@ -917,6 +1100,7 @@ export const list1GenPokemons = [{
     "num": "027",
     "name": "Sandshrew",
     "img": "http://www.serebii.net/pokemongo/pokemon/027.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/027.png",
     "type": [
         "Ground"
     ],
@@ -939,6 +1123,12 @@ export const list1GenPokemons = [{
         "Poison",
         "Rock",
     ],
+    "stats": {
+        "stamina": 120,
+        "attack": 141,
+        "defense": 135
+    },
+    "maxCP": 1426,
     "next_evolution": [{
         "num": "028",
         "name": "Sandslash"
@@ -948,6 +1138,7 @@ export const list1GenPokemons = [{
     "num": "028",
     "name": "Sandslash",
     "img": "http://www.serebii.net/pokemongo/pokemon/028.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/028.png",
     "type": [
         "Ground"
     ],
@@ -969,6 +1160,12 @@ export const list1GenPokemons = [{
         "Poison",
         "Rock",
     ],
+    "stats": {
+        "stamina": 122,
+        "attack": 197,
+        "defense": 190
+    },
+    "maxCP": 2684,
     "prev_evolution": [{
         "num": "027",
         "name": "Sandshrew"
@@ -978,6 +1175,7 @@ export const list1GenPokemons = [{
     "num": "029",
     "name": "Nidoran ♀ (Female)",
     "img": "http://www.serebii.net/pokemongo/pokemon/029.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/029.png",
     "type": [
         "Poison"
     ],
@@ -1004,6 +1202,12 @@ export const list1GenPokemons = [{
         "Poison",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 127,
+        "attack": 101,
+        "defense": 104
+    },
+    "maxCP": 922,
     "next_evolution": [{
         "num": "030",
         "name": "Nidorina"
@@ -1016,6 +1220,7 @@ export const list1GenPokemons = [{
     "num": "030",
     "name": "Nidorina",
     "img": "http://www.serebii.net/pokemongo/pokemon/030.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/030.png",
     "type": [
         "Poison"
     ],
@@ -1042,6 +1247,12 @@ export const list1GenPokemons = [{
         "Poison",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 147,
+        "attack": 132,
+        "defense": 135
+    },
+    "maxCP": 1480,
     "prev_evolution": [{
         "num": "029",
         "name": "Nidoran(Female)"
@@ -1055,6 +1266,7 @@ export const list1GenPokemons = [{
     "num": "031",
     "name": "Nidoqueen",
     "img": "http://www.serebii.net/pokemongo/pokemon/031.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/031.png",
     "type": [
         "Poison",
         "Ground"
@@ -1081,6 +1293,12 @@ export const list1GenPokemons = [{
         "Rock",
         "Electric"
     ],
+    "stats": {
+        "stamina": 135,
+        "attack": 195,
+        "defense": 188
+    },
+    "maxCP": 2812,
     "prev_evolution": [{
         "num": "029",
         "name": "Nidoran(Female)"
@@ -1093,6 +1311,7 @@ export const list1GenPokemons = [{
     "num": "032",
     "name": "Nidoran ♂ (Male)",
     "img": "http://www.serebii.net/pokemongo/pokemon/032.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/032.png",
     "type": [
         "Poison"
     ],
@@ -1119,6 +1338,12 @@ export const list1GenPokemons = [{
         "Poison",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 114,
+        "attack": 120,
+        "defense": 91
+    },
+    "maxCP": 973,
     "next_evolution": [{
         "num": "033",
         "name": "Nidorino"
@@ -1131,6 +1356,7 @@ export const list1GenPokemons = [{
     "num": "033",
     "name": "Nidorino",
     "img": "http://www.serebii.net/pokemongo/pokemon/033.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/033.png",
     "type": [
         "Poison"
     ],
@@ -1154,6 +1380,12 @@ export const list1GenPokemons = [{
         "Poison",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 135,
+        "attack": 152,
+        "defense": 126
+    },
+    "maxCP": 1575,
     "prev_evolution": [{
         "num": "032",
         "name": "Nidoran(Male)"
@@ -1167,6 +1399,7 @@ export const list1GenPokemons = [{
     "num": "034",
     "name": "Nidoking",
     "img": "http://www.serebii.net/pokemongo/pokemon/034.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/034.png",
     "type": [
         "Poison",
         "Ground"
@@ -1193,6 +1426,12 @@ export const list1GenPokemons = [{
         "Rock",
         "Electric"
     ],
+    "stats": {
+        "stamina": 123,
+        "attack": 219,
+        "defense": 171
+    },
+    "maxCP": 2902,
     "prev_evolution": [{
         "num": "032",
         "name": "Nidoran(Male)"
@@ -1205,6 +1444,7 @@ export const list1GenPokemons = [{
     "num": "035",
     "name": "Clefairy",
     "img": "http://www.serebii.net/pokemongo/pokemon/035.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/035.png",
     "type": [
         "Fairy"
     ],
@@ -1230,6 +1470,12 @@ export const list1GenPokemons = [{
         "Dragon",
         "Dark"
     ],
+    "stats": {
+        "stamina": 147,
+        "attack": 122,
+        "defense": 123
+    },
+    "maxCP": 1306,
     "next_evolution": [{
         "num": "036",
         "name": "Clefable"
@@ -1239,6 +1485,7 @@ export const list1GenPokemons = [{
     "num": "036",
     "name": "Clefable",
     "img": "http://www.serebii.net/pokemongo/pokemon/036.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/036.png",
     "type": [
         "Fairy"
     ],
@@ -1260,6 +1507,12 @@ export const list1GenPokemons = [{
         "Dragon",
         "Dark"
     ],
+    "stats": {
+        "stamina": 143,
+        "attack": 193,
+        "defense": 177
+    },
+    "maxCP": 2755,
     "prev_evolution": [{
         "num": "035",
         "name": "Clefairy"
@@ -1269,6 +1522,7 @@ export const list1GenPokemons = [{
     "num": "037",
     "name": "Vulpix",
     "img": "http://www.serebii.net/pokemongo/pokemon/037.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/037.png",
     "type": [
         "Fire"
     ],
@@ -1297,6 +1551,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Steel"
     ],
+    "stats": {
+        "stamina": 103,
+        "attack": 111,
+        "defense": 124
+    },
+    "maxCP": 999,
     "next_evolution": [{
         "num": "038",
         "name": "Ninetales"
@@ -1306,6 +1566,7 @@ export const list1GenPokemons = [{
     "num": "038",
     "name": "Ninetales",
     "img": "http://www.serebii.net/pokemongo/pokemon/038.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/038.png",
     "type": [
         "Fire"
     ],
@@ -1330,6 +1591,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Steel"
     ],
+    "stats": {
+        "stamina": 123,
+        "attack": 184,
+        "defense": 205
+    },
+    "maxCP": 2578,
     "prev_evolution": [{
         "num": "037",
         "name": "Vulpix"
@@ -1339,6 +1606,7 @@ export const list1GenPokemons = [{
     "num": "039",
     "name": "Jigglypuff",
     "img": "http://www.serebii.net/pokemongo/pokemon/039.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/039.png",
     "type": [
         "Normal",
         "Fairy"
@@ -1362,6 +1630,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Dragon"
     ],
+    "stats": {
+        "stamina": 210,
+        "attack": 95,
+        "defense": 56
+    },
+    "maxCP": 818,
     "next_evolution": [{
         "num": "040",
         "name": "Wigglytuff"
@@ -1371,6 +1645,7 @@ export const list1GenPokemons = [{
     "num": "040",
     "name": "Wigglytuff",
     "img": "http://www.serebii.net/pokemongo/pokemon/040.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/040.png",
     "type": [
         "Normal",
         "Fairy"
@@ -1393,6 +1668,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Dragon"
     ],
+    "stats": {
+        "stamina": 215,
+        "attack": 171,
+        "defense": 105
+    },
+    "maxCP": 2178,
     "prev_evolution": [{
         "num": "039",
         "name": "Jigglypuff"
@@ -1402,6 +1683,7 @@ export const list1GenPokemons = [{
     "num": "041",
     "name": "Zubat",
     "img": "http://www.serebii.net/pokemongo/pokemon/041.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/041.png",
     "type": [
         "Poison",
         "Flying"
@@ -1432,6 +1714,12 @@ export const list1GenPokemons = [{
         "Poison",
         "Grass"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 98,
+        "defense": 88
+    },
+    "maxCP": 754,
     "next_evolution": [{
         "num": "042",
         "name": "Golbat"
@@ -1441,6 +1729,7 @@ export const list1GenPokemons = [{
     "num": "042",
     "name": "Golbat",
     "img": "http://www.serebii.net/pokemongo/pokemon/042.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/042.png",
     "type": [
         "Poison",
         "Flying"
@@ -1467,6 +1756,12 @@ export const list1GenPokemons = [{
         "Poison",
         "Grass"
     ],
+    "stats": {
+        "stamina": 134,
+        "attack": 176,
+        "defense": 165
+    },
+    "maxCP": 2234,
     "prev_evolution": [{
         "num": "041",
         "name": "Zubat"
@@ -1476,6 +1771,7 @@ export const list1GenPokemons = [{
     "num": "043",
     "name": "Oddish",
     "img": "http://www.serebii.net/pokemongo/pokemon/043.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/043.png",
     "type": [
         "Grass",
         "Poison"
@@ -1502,6 +1798,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 113,
+        "attack": 146,
+        "defense": 127
+    },
+    "maxCP": 1389,
     "next_evolution": [{
         "num": "044",
         "name": "Gloom"
@@ -1514,6 +1816,7 @@ export const list1GenPokemons = [{
     "num": "044",
     "name": "Gloom",
     "img": "http://www.serebii.net/pokemongo/pokemon/044.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/044.png",
     "type": [
         "Grass",
         "Poison"
@@ -1540,6 +1843,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 126,
+        "attack": 168,
+        "defense": 151
+    },
+    "maxCP": 1900,
     "prev_evolution": [{
         "num": "043",
         "name": "Oddish"
@@ -1553,6 +1862,7 @@ export const list1GenPokemons = [{
     "num": "045",
     "name": "Vileplume",
     "img": "http://www.serebii.net/pokemongo/pokemon/045.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/045.png",
     "type": [
         "Grass",
         "Poison"
@@ -1578,6 +1888,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 118,
+        "attack": 217,
+        "defense": 182
+    },
+    "maxCP": 2893,
     "prev_evolution": [{
         "num": "043",
         "name": "Oddish"
@@ -1590,6 +1906,7 @@ export const list1GenPokemons = [{
     "num": "046",
     "name": "Paras",
     "img": "http://www.serebii.net/pokemongo/pokemon/046.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/046.png",
     "type": [
         "Bug",
         "Grass"
@@ -1618,6 +1935,12 @@ export const list1GenPokemons = [{
         "Grass",
         "Fighting"
     ],
+    "stats": {
+        "stamina": 99,
+        "attack": 136,
+        "defense": 114
+    },
+    "maxCP": 1150,
     "next_evolution": [{
         "num": "047",
         "name": "Parasect"
@@ -1627,6 +1950,7 @@ export const list1GenPokemons = [{
     "num": "047",
     "name": "Parasect",
     "img": "http://www.serebii.net/pokemongo/pokemon/047.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/047.png",
     "type": [
         "Bug",
         "Grass"
@@ -1654,6 +1978,12 @@ export const list1GenPokemons = [{
         "Grass",
         "Fighting"
     ],
+    "stats": {
+        "stamina": 120,
+        "attack": 180,
+        "defense": 161
+    },
+    "maxCP": 2102,
     "prev_evolution": [{
         "num": "046",
         "name": "Paras"
@@ -1663,6 +1993,7 @@ export const list1GenPokemons = [{
     "num": "048",
     "name": "Venonat",
     "img": "http://www.serebii.net/pokemongo/pokemon/048.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/048.png",
     "type": [
         "Bug",
         "Poison"
@@ -1692,6 +2023,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Poison"
     ],
+    "stats": {
+        "stamina": 134,
+        "attack": 115,
+        "defense": 115
+    },
+    "maxCP": 1135,
     "next_evolution": [{
         "num": "049",
         "name": "Venomoth"
@@ -1701,6 +2038,7 @@ export const list1GenPokemons = [{
     "num": "049",
     "name": "Venomoth",
     "img": "http://www.serebii.net/pokemongo/pokemon/049.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/049.png",
     "type": [
         "Bug",
         "Poison"
@@ -1726,6 +2064,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Poison"
     ],
+    "stats": {
+        "stamina": 124,
+        "attack": 194,
+        "defense": 158
+    },
+    "maxCP": 2354,
     "prev_evolution": [{
         "num": "048",
         "name": "Venonat"
@@ -1735,6 +2079,7 @@ export const list1GenPokemons = [{
     "num": "050",
     "name": "Diglett",
     "img": "http://www.serebii.net/pokemongo/pokemon/050.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/050.png",
     "type": [
         "Ground"
     ],
@@ -1757,6 +2102,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Poison"
     ],
+    "stats": {
+        "stamina": 64,
+        "attack": 124,
+        "defense": 93
+    },
+    "maxCP": 765,
     "next_evolution": [{
         "num": "051",
         "name": "Dugtrio"
@@ -1766,6 +2117,7 @@ export const list1GenPokemons = [{
     "num": "051",
     "name": "Dugtrio",
     "img": "http://www.serebii.net/pokemongo/pokemon/051.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/051.png",
     "type": [
         "Ground"
     ],
@@ -1787,6 +2139,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Poison"
     ],
+    "stats": {
+        "stamina": 97,
+        "attack": 182,
+        "defense": 149
+    },
+    "maxCP": 1773,
     "prev_evolution": [{
         "num": "050",
         "name": "Diglett"
@@ -1796,6 +2154,7 @@ export const list1GenPokemons = [{
     "num": "052",
     "name": "Meowth",
     "img": "http://www.serebii.net/pokemongo/pokemon/052.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/052.png",
     "type": [
         "Normal"
     ],
@@ -1814,6 +2173,12 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 107,
+        "defense": 93
+    },
+    "maxCP": 847,
     "next_evolution": [{
         "num": "053",
         "name": "Persian"
@@ -1823,6 +2188,7 @@ export const list1GenPokemons = [{
     "num": "053",
     "name": "Persian",
     "img": "http://www.serebii.net/pokemongo/pokemon/053.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/053.png",
     "type": [
         "Normal"
     ],
@@ -1840,6 +2206,12 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 132,
+        "attack": 165,
+        "defense": 151
+    },
+    "maxCP": 1910,
     "prev_evolution": [{
         "num": "052",
         "name": "Meowth"
@@ -1849,6 +2221,7 @@ export const list1GenPokemons = [{
     "num": "054",
     "name": "Psyduck",
     "img": "http://www.serebii.net/pokemongo/pokemon/054.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/054.png",
     "type": [
         "Water"
     ],
@@ -1871,6 +2244,12 @@ export const list1GenPokemons = [{
         "Ice",
         "Steel"
     ],
+    "stats": {
+        "stamina": 120,
+        "attack": 137,
+        "defense": 110
+    },
+    "maxCP": 1250,
     "next_evolution": [{
         "num": "055",
         "name": "Golduck"
@@ -1880,6 +2259,7 @@ export const list1GenPokemons = [{
     "num": "055",
     "name": "Golduck",
     "img": "http://www.serebii.net/pokemongo/pokemon/055.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/055.png",
     "type": [
         "Water"
     ],
@@ -1901,6 +2281,12 @@ export const list1GenPokemons = [{
         "Ice",
         "Steel"
     ],
+    "stats": {
+        "stamina": 125,
+        "attack": 206,
+        "defense": 177
+    },
+    "maxCP": 2770,
     "prev_evolution": [{
         "num": "054",
         "name": "Psyduck"
@@ -1910,6 +2296,7 @@ export const list1GenPokemons = [{
     "num": "056",
     "name": "Mankey",
     "img": "http://www.serebii.net/pokemongo/pokemon/056.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/056.png",
     "type": [
         "Fighting"
     ],
@@ -1935,6 +2322,12 @@ export const list1GenPokemons = [{
         "Rock",
         "Bug"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 163,
+        "defense": 97
+    },
+    "maxCP": 1317,
     "next_evolution": [{
         "num": "057",
         "name": "Primeape"
@@ -1944,6 +2337,7 @@ export const list1GenPokemons = [{
     "num": "057",
     "name": "Primeape",
     "img": "http://www.serebii.net/pokemongo/pokemon/057.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/057.png",
     "type": [
         "Fighting"
     ],
@@ -1965,6 +2359,12 @@ export const list1GenPokemons = [{
         "Rock",
         "Bug"
     ],
+    "stats": {
+        "stamina": 112,
+        "attack": 222,
+        "defense": 153
+    },
+    "maxCP": 2586,
     "prev_evolution": [{
         "num": "056",
         "name": "Mankey"
@@ -1974,6 +2374,7 @@ export const list1GenPokemons = [{
     "num": "058",
     "name": "Growlithe",
     "img": "http://www.serebii.net/pokemongo/pokemon/058.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/058.png",
     "type": [
         "Fire"
     ],
@@ -2002,6 +2403,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Steel"
     ],
+    "stats": {
+        "stamina": 127,
+        "attack": 151,
+        "defense": 108
+    },
+    "maxCP": 1405,
     "next_evolution": [{
         "num": "059",
         "name": "Arcanine"
@@ -2011,6 +2418,7 @@ export const list1GenPokemons = [{
     "num": "059",
     "name": "Arcanine",
     "img": "http://www.serebii.net/pokemongo/pokemon/059.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/059.png",
     "type": [
         "Fire"
     ],
@@ -2035,6 +2443,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Steel"
     ],
+    "stats": {
+        "stamina": 122,
+        "attack": 242,
+        "defense": 181
+    },
+    "maxCP": 3425,
     "prev_evolution": [{
         "num": "058",
         "name": "Growlithe"
@@ -2044,6 +2458,7 @@ export const list1GenPokemons = [{
     "num": "060",
     "name": "Poliwag",
     "img": "http://www.serebii.net/pokemongo/pokemon/060.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/060.png",
     "type": [
         "Water"
     ],
@@ -2069,6 +2484,12 @@ export const list1GenPokemons = [{
         "Water",
         "Steel"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 116,
+        "defense": 97
+    },
+    "maxCP": 937,
     "next_evolution": [{
         "num": "061",
         "name": "Poliwhirl"
@@ -2081,6 +2502,7 @@ export const list1GenPokemons = [{
     "num": "061",
     "name": "Poliwhirl",
     "img": "http://www.serebii.net/pokemongo/pokemon/061.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/061.png",
     "type": [
         "Water"
     ],
@@ -2103,6 +2525,12 @@ export const list1GenPokemons = [{
         "Water",
         "Steel"
     ],
+    "stats": {
+        "stamina": 140,
+        "attack": 145,
+        "defense": 138
+    },
+    "maxCP": 1604,
     "prev_evolution": [{
         "num": "060",
         "name": "Poliwag"
@@ -2116,6 +2544,7 @@ export const list1GenPokemons = [{
     "num": "062",
     "name": "Poliwrath",
     "img": "http://www.serebii.net/pokemongo/pokemon/062.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/062.png",
     "type": [
         "Water",
         "Fighting"
@@ -2144,6 +2573,12 @@ export const list1GenPokemons = [{
         "Dark",
         "Rock"
     ],
+    "stats": {
+        "stamina": 132,
+        "attack": 197,
+        "defense": 199
+    },
+    "maxCP": 2923,
     "prev_evolution": [{
         "num": "060",
         "name": "Poliwag"
@@ -2156,6 +2591,7 @@ export const list1GenPokemons = [{
     "num": "063",
     "name": "Abra",
     "img": "http://www.serebii.net/pokemongo/pokemon/063.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/063.png",
     "type": [
         "Psychic"
     ],
@@ -2180,6 +2616,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Psychic"
     ],
+    "stats": {
+        "stamina": 85,
+        "attack": 210,
+        "defense": 97
+    },
+    "maxCP": 1517,
     "next_evolution": [{
         "num": "064",
         "name": "Kadabra"
@@ -2192,6 +2634,7 @@ export const list1GenPokemons = [{
     "num": "064",
     "name": "Kadabra",
     "img": "http://www.serebii.net/pokemongo/pokemon/064.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/064.png",
     "type": [
         "Psychic"
     ],
@@ -2213,6 +2656,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Psychic"
     ],
+    "stats": {
+        "stamina": 91,
+        "attack": 247,
+        "defense": 132
+    },
+    "maxCP": 2328,
     "prev_evolution": [{
         "num": "063",
         "name": "Abra"
@@ -2226,6 +2675,7 @@ export const list1GenPokemons = [{
     "num": "065",
     "name": "Alakazam",
     "img": "http://www.serebii.net/pokemongo/pokemon/065.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/065.png",
     "type": [
         "Psychic"
     ],
@@ -2246,6 +2696,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Psychic"
     ],
+    "stats": {
+        "stamina": 88,
+        "attack": 286,
+        "defense": 182
+    },
+    "maxCP": 3456,
     "prev_evolution": [{
         "num": "063",
         "name": "Abra"
@@ -2258,6 +2714,7 @@ export const list1GenPokemons = [{
     "num": "066",
     "name": "Machop",
     "img": "http://www.serebii.net/pokemongo/pokemon/066.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/066.png",
     "type": [
         "Fighting"
     ],
@@ -2283,6 +2740,12 @@ export const list1GenPokemons = [{
         "Dark",
         "Rock"
     ],
+    "stats": {
+        "stamina": 147,
+        "attack": 152,
+        "defense": 97
+    },
+    "maxCP": 1445,
     "next_evolution": [{
         "num": "067",
         "name": "Machoke"
@@ -2295,6 +2758,7 @@ export const list1GenPokemons = [{
     "num": "067",
     "name": "Machoke",
     "img": "http://www.serebii.net/pokemongo/pokemon/067.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/067.png",
     "type": [
         "Fighting"
     ],
@@ -2317,6 +2781,12 @@ export const list1GenPokemons = [{
         "Dark",
         "Rock"
     ],
+    "stats": {
+        "stamina": 138,
+        "attack": 192,
+        "defense": 140
+    },
+    "maxCP": 2296,
     "prev_evolution": [{
         "num": "066",
         "name": "Machop"
@@ -2330,6 +2800,7 @@ export const list1GenPokemons = [{
     "num": "068",
     "name": "Machamp",
     "img": "http://www.serebii.net/pokemongo/pokemon/068.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/068.png",
     "type": [
         "Fighting"
     ],
@@ -2351,6 +2822,12 @@ export const list1GenPokemons = [{
         "Dark",
         "Rock"
     ],
+    "stats": {
+        "stamina": 122,
+        "attack": 249,
+        "defense": 174
+    },
+    "maxCP": 3455,
     "prev_evolution": [{
         "num": "066",
         "name": "Machop"
@@ -2363,6 +2840,7 @@ export const list1GenPokemons = [{
     "num": "069",
     "name": "Bellsprout",
     "img": "http://www.serebii.net/pokemongo/pokemon/069.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/069.png",
     "type": [
         "Grass",
         "Poison"
@@ -2389,6 +2867,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 120,
+        "attack": 154,
+        "defense": 76
+    },
+    "maxCP": 1168,
     "next_evolution": [{
         "num": "070",
         "name": "Weepinbell"
@@ -2401,6 +2885,7 @@ export const list1GenPokemons = [{
     "num": "070",
     "name": "Weepinbell",
     "img": "http://www.serebii.net/pokemongo/pokemon/070.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/070.png",
     "type": [
         "Grass",
         "Poison"
@@ -2427,6 +2912,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 135,
+        "attack": 187,
+        "defense": 107
+    },
+    "maxCP": 1822,
     "prev_evolution": [{
         "num": "069",
         "name": "Bellsprout"
@@ -2440,6 +2931,7 @@ export const list1GenPokemons = [{
     "num": "071",
     "name": "Victreebel",
     "img": "http://www.serebii.net/pokemongo/pokemon/071.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/071.png",
     "type": [
         "Grass",
         "Poison"
@@ -2465,6 +2957,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 126,
+        "attack": 222,
+        "defense": 150
+    },
+    "maxCP": 2748,
     "prev_evolution": [{
         "num": "069",
         "name": "Bellsprout"
@@ -2477,6 +2975,7 @@ export const list1GenPokemons = [{
     "num": "072",
     "name": "Tentacool",
     "img": "http://www.serebii.net/pokemongo/pokemon/072.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/072.png",
     "type": [
         "Water",
         "Poison"
@@ -2504,6 +3003,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Fire"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 112,
+        "defense": 164
+    },
+    "maxCP": 1176,
     "next_evolution": [{
         "num": "073",
         "name": "Tentacruel"
@@ -2513,6 +3018,7 @@ export const list1GenPokemons = [{
     "num": "073",
     "name": "Tentacruel",
     "img": "http://www.serebii.net/pokemongo/pokemon/073.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/073.png",
     "type": [
         "Water",
         "Poison"
@@ -2539,6 +3045,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Fire"
     ],
+    "stats": {
+        "stamina": 126,
+        "attack": 181,
+        "defense": 224
+    },
+    "maxCP": 2738,
     "prev_evolution": [{
         "num": "072",
         "name": "Tentacool"
@@ -2548,6 +3060,7 @@ export const list1GenPokemons = [{
     "num": "074",
     "name": "Geodude",
     "img": "http://www.serebii.net/pokemongo/pokemon/074.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/074.png",
     "type": [
         "Rock",
         "Ground"
@@ -2580,6 +3093,12 @@ export const list1GenPokemons = [{
         "Normal",
         "Rock"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 147,
+        "defense": 147
+    },
+    "maxCP": 1462,
     "next_evolution": [{
         "num": "075",
         "name": "Graveler"
@@ -2592,6 +3111,7 @@ export const list1GenPokemons = [{
     "num": "075",
     "name": "Graveler",
     "img": "http://www.serebii.net/pokemongo/pokemon/075.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/075.png",
     "type": [
         "Rock",
         "Ground"
@@ -2624,6 +3144,12 @@ export const list1GenPokemons = [{
         "Normal",
         "Rock"
     ],
+    "stats": {
+        "stamina": 112,
+        "attack": 179,
+        "defense": 179
+    },
+    "maxCP": 2146,
     "prev_evolution": [{
         "num": "074",
         "name": "Geodude"
@@ -2637,6 +3163,7 @@ export const list1GenPokemons = [{
     "num": "076",
     "name": "Golem",
     "img": "http://www.serebii.net/pokemongo/pokemon/076.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/076.png",
     "type": [
         "Rock",
         "Ground"
@@ -2665,6 +3192,12 @@ export const list1GenPokemons = [{
         "Normal",
         "Rock"
     ],
+    "stats": {
+        "stamina": 114,
+        "attack": 226,
+        "defense": 213
+    },
+    "maxCP": 3335,
     "prev_evolution": [{
         "num": "074",
         "name": "Geodude"
@@ -2677,6 +3210,7 @@ export const list1GenPokemons = [{
     "num": "077",
     "name": "Ponyta",
     "img": "http://www.serebii.net/pokemongo/pokemon/077.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/077.png",
     "type": [
         "Fire"
     ],
@@ -2705,6 +3239,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Steel"
     ],
+    "stats": {
+        "stamina": 112,
+        "attack": 185,
+        "defense": 142
+    },
+    "maxCP": 1919,
     "next_evolution": [{
         "num": "078",
         "name": "Rapidash"
@@ -2714,6 +3254,7 @@ export const list1GenPokemons = [{
     "num": "078",
     "name": "Rapidash",
     "img": "http://www.serebii.net/pokemongo/pokemon/078.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/078.png",
     "type": [
         "Fire"
     ],
@@ -2738,6 +3279,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Steel"
     ],
+    "stats": {
+        "stamina": 108,
+        "attack": 222,
+        "defense": 177
+    },
+    "maxCP": 2782,
     "prev_evolution": [{
         "num": "077",
         "name": "Ponyta"
@@ -2747,6 +3294,7 @@ export const list1GenPokemons = [{
     "num": "079",
     "name": "Slowpoke",
     "img": "http://www.serebii.net/pokemongo/pokemon/079.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/079.png",
     "type": [
         "Water",
         "Psychic"
@@ -2775,6 +3323,12 @@ export const list1GenPokemons = [{
         "Psychic",
         "Fighting"
     ],
+    "stats": {
+        "stamina": 175,
+        "attack": 124,
+        "defense": 113
+    },
+    "maxCP": 1387,
     "next_evolution": [{
         "num": "080",
         "name": "Slowbro"
@@ -2784,6 +3338,7 @@ export const list1GenPokemons = [{
     "num": "080",
     "name": "Slowbro",
     "img": "http://www.serebii.net/pokemongo/pokemon/080.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/080.png",
     "type": [
         "Water",
         "Psychic"
@@ -2811,6 +3366,12 @@ export const list1GenPokemons = [{
         "Psychic",
         "Fighting"
     ],
+    "stats": {
+        "stamina": 139,
+        "attack": 192,
+        "defense": 195
+    },
+    "maxCP": 2877,
     "prev_evolution": [{
         "num": "079",
         "name": "Slowpoke"
@@ -2820,6 +3381,7 @@ export const list1GenPokemons = [{
     "num": "081",
     "name": "Magnemite",
     "img": "http://www.serebii.net/pokemongo/pokemon/081.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/081.png",
     "type": [
         "Electric",
         "Steel"
@@ -2855,6 +3417,12 @@ export const list1GenPokemons = [{
         "Rock",
         "Psychic"
     ],
+    "stats": {
+        "stamina": 85,
+        "attack": 180,
+        "defense": 136
+    },
+    "maxCP": 1540,
     "next_evolution": [{
         "num": "082",
         "name": "Magneton"
@@ -2864,6 +3432,7 @@ export const list1GenPokemons = [{
     "num": "082",
     "name": "Magneton",
     "img": "http://www.serebii.net/pokemongo/pokemon/082.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/082.png",
     "type": [
         "Electric",
         "Steel"
@@ -2895,6 +3464,12 @@ export const list1GenPokemons = [{
         "Rock",
         "Psychic"
     ],
+    "stats": {
+        "stamina": 93,
+        "attack": 238,
+        "defense": 184
+    },
+    "maxCP": 2810,
     "prev_evolution": [{
         "num": "081",
         "name": "Magnemite"
@@ -2904,6 +3479,7 @@ export const list1GenPokemons = [{
     "num": "083",
     "name": "Farfetch'd",
     "img": "http://www.serebii.net/pokemongo/pokemon/083.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/083.png",
     "type": [
         "Normal",
         "Flying"
@@ -2927,11 +3503,18 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 123,
+        "attack": 139,
+        "defense": 130
+    },
+    "maxCP": 1398,
 }, {
     "id": 84,
     "num": "084",
     "name": "Doduo",
     "img": "http://www.serebii.net/pokemongo/pokemon/084.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/084.png",
     "type": [
         "Normal",
         "Flying"
@@ -2959,6 +3542,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 99,
+        "attack": 173,
+        "defense": 98
+    },
+    "maxCP": 1357,
     "next_evolution": [{
         "num": "085",
         "name": "Dodrio"
@@ -2968,6 +3557,7 @@ export const list1GenPokemons = [{
     "num": "085",
     "name": "Dodrio",
     "img": "http://www.serebii.net/pokemongo/pokemon/085.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/085.png",
     "type": [
         "Normal",
         "Flying"
@@ -2991,6 +3581,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 233,
+        "defense": 155
+    },
+    "maxCP": 2670,
     "prev_evolution": [{
         "num": "084",
         "name": "Doduo"
@@ -3000,6 +3596,7 @@ export const list1GenPokemons = [{
     "num": "086",
     "name": "Seel",
     "img": "http://www.serebii.net/pokemongo/pokemon/086.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/086.png",
     "type": [
         "Water"
     ],
@@ -3025,6 +3622,12 @@ export const list1GenPokemons = [{
         "Fire",
         "Steel"
     ],
+    "stats": {
+        "stamina": 140,
+        "attack": 100,
+        "defense": 136
+    },
+    "maxCP": 1098,
     "next_evolution": [{
         "num": "087",
         "name": "Dewgong"
@@ -3034,6 +3637,7 @@ export const list1GenPokemons = [{
     "num": "087",
     "name": "Dewgong",
     "img": "http://www.serebii.net/pokemongo/pokemon/087.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/087.png",
     "type": [
         "Water",
         "Ice"
@@ -3056,6 +3660,12 @@ export const list1GenPokemons = [{
         "Water",
         "Ice"
     ],
+    "stats": {
+        "stamina": 151,
+        "attack": 154,
+        "defense": 192
+    },
+    "maxCP": 2245,
     "prev_evolution": [{
         "num": "086",
         "name": "Seel"
@@ -3065,6 +3675,7 @@ export const list1GenPokemons = [{
     "num": "088",
     "name": "Grimer",
     "img": "http://www.serebii.net/pokemongo/pokemon/088.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/088.png",
     "type": [
         "Poison"
     ],
@@ -3088,6 +3699,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Grass"
     ],
+    "stats": {
+        "stamina": 162,
+        "attack": 150,
+        "defense": 105
+    },
+    "maxCP": 1554,
     "next_evolution": [{
         "num": "089",
         "name": "Muk"
@@ -3097,6 +3714,7 @@ export const list1GenPokemons = [{
     "num": "089",
     "name": "Muk",
     "img": "http://www.serebii.net/pokemongo/pokemon/089.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/089.png",
     "type": [
         "Poison"
     ],
@@ -3119,6 +3737,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Grass"
     ],
+    "stats": {
+        "stamina": 144,
+        "attack": 205,
+        "defense": 187
+    },
+    "maxCP": 3117,
     "prev_evolution": [{
         "num": "088",
         "name": "Grimer"
@@ -3128,6 +3752,7 @@ export const list1GenPokemons = [{
     "num": "090",
     "name": "Shellder",
     "img": "http://www.serebii.net/pokemongo/pokemon/090.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/090.png",
     "type": [
         "Water"
     ],
@@ -3150,6 +3775,12 @@ export const list1GenPokemons = [{
         "Fire",
         "Steel"
     ],
+    "stats": {
+        "stamina": 92,
+        "attack": 131,
+        "defense": 149
+    },
+    "maxCP": 1221,
     "next_evolution": [{
         "num": "091",
         "name": "Cloyster"
@@ -3159,6 +3790,7 @@ export const list1GenPokemons = [{
     "num": "091",
     "name": "Cloyster",
     "img": "http://www.serebii.net/pokemongo/pokemon/091.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/091.png",
     "type": [
         "Water",
         "Ice"
@@ -3181,6 +3813,12 @@ export const list1GenPokemons = [{
         "Ice",
         "Water"
     ],
+    "stats": {
+        "stamina": 91,
+        "attack": 201,
+        "defense": 271
+    },
+    "maxCP": 2880,
     "prev_evolution": [{
         "num": "090",
         "name": "Shellder"
@@ -3190,6 +3828,7 @@ export const list1GenPokemons = [{
     "num": "092",
     "name": "Gastly",
     "img": "http://www.serebii.net/pokemongo/pokemon/092.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/092.png",
     "type": [
         "Ghost",
         "Poison"
@@ -3217,6 +3856,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Normal"
     ],
+    "stats": {
+        "stamina": 92,
+        "attack": 201,
+        "defense": 82
+    },
+    "maxCP": 1390,
     "next_evolution": [{
         "num": "093",
         "name": "Haunter"
@@ -3229,6 +3874,7 @@ export const list1GenPokemons = [{
     "num": "093",
     "name": "Haunter",
     "img": "http://www.serebii.net/pokemongo/pokemon/093.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/093.png",
     "type": [
         "Ghost",
         "Poison"
@@ -3259,6 +3905,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Normal"
     ],
+    "stats": {
+        "stamina": 98,
+        "attack": 238,
+        "defense": 122
+    },
+    "maxCP": 2219,
     "prev_evolution": [{
         "num": "092",
         "name": "Gastly"
@@ -3272,6 +3924,7 @@ export const list1GenPokemons = [{
     "num": "094",
     "name": "Gengar",
     "img": "http://www.serebii.net/pokemongo/pokemon/094.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/094.png",
     "type": [
         "Ghost",
         "Poison"
@@ -3298,6 +3951,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Normal"
     ],
+    "stats": {
+        "stamina": 96,
+        "attack": 276,
+        "defense": 164
+    },
+    "maxCP": 3254,
     "prev_evolution": [{
         "num": "092",
         "name": "Gastly"
@@ -3310,6 +3969,7 @@ export const list1GenPokemons = [{
     "num": "095",
     "name": "Onix",
     "img": "http://www.serebii.net/pokemongo/pokemon/095.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/095.png",
     "type": [
         "Rock",
         "Ground"
@@ -3338,11 +3998,18 @@ export const list1GenPokemons = [{
         "Normal",
         "Rock"
     ],
+    "stats": {
+        "stamina": 99,
+        "attack": 100,
+        "defense": 247
+    },
+    "maxCP": 1245,
 }, {
     "id": 96,
     "num": "096",
     "name": "Drowzee",
     "img": "http://www.serebii.net/pokemongo/pokemon/096.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/096.png",
     "type": [
         "Psychic"
     ],
@@ -3367,6 +4034,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Phychic"
     ],
+    "stats": {
+        "stamina": 134,
+        "attack": 104,
+        "defense": 151
+    },
+    "maxCP": 1176,
     "next_evolution": [{
         "num": "097",
         "name": "Hypno"
@@ -3376,6 +4049,7 @@ export const list1GenPokemons = [{
     "num": "097",
     "name": "Hypno",
     "img": "http://www.serebii.net/pokemongo/pokemon/097.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/097.png",
     "type": [
         "Psychic"
     ],
@@ -3396,6 +4070,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Phychic"
     ],
+    "stats": {
+        "stamina": 142,
+        "attack": 159,
+        "defense": 208
+    },
+    "maxCP": 2363,
     "prev_evolution": [{
         "num": "096",
         "name": "Drowzee"
@@ -3405,6 +4085,7 @@ export const list1GenPokemons = [{
     "num": "098",
     "name": "Krabby",
     "img": "http://www.serebii.net/pokemongo/pokemon/098.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/098.png",
     "type": [
         "Water"
     ],
@@ -3430,6 +4111,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Fire"
     ],
+    "stats": {
+        "stamina": 90,
+        "attack": 196,
+        "defense": 139
+    },
+    "maxCP": 1764,
     "next_evolution": [{
         "num": "099",
         "name": "Kingler"
@@ -3439,6 +4126,7 @@ export const list1GenPokemons = [{
     "num": "099",
     "name": "Kingler",
     "img": "http://www.serebii.net/pokemongo/pokemon/099.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/099.png",
     "type": [
         "Water"
     ],
@@ -3460,6 +4148,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Fire"
     ],
+    "stats": {
+        "stamina": 92,
+        "attack": 255,
+        "defense": 196
+    },
+    "maxCP": 3198,
     "prev_evolution": [{
         "num": "098",
         "name": "Krabby"
@@ -3469,6 +4163,7 @@ export const list1GenPokemons = [{
     "num": "100",
     "name": "Voltorb",
     "img": "http://www.serebii.net/pokemongo/pokemon/100.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/100.png",
     "type": [
         "Electric"
     ],
@@ -3492,6 +4187,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Flying"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 124,
+        "defense": 126
+    },
+    "maxCP": 1141,
     "next_evolution": [{
         "num": "101",
         "name": "Electrode"
@@ -3501,6 +4202,7 @@ export const list1GenPokemons = [{
     "num": "101",
     "name": "Electrode",
     "img": "http://www.serebii.net/pokemongo/pokemon/101.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/101.png",
     "type": [
         "Electric"
     ],
@@ -3520,6 +4222,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Flying"
     ],
+    "stats": {
+        "stamina": 113,
+        "attack": 188,
+        "defense": 188
+    },
+    "maxCP": 2373,
     "prev_evolution": [{
         "num": "100",
         "name": "Voltorb"
@@ -3529,6 +4237,7 @@ export const list1GenPokemons = [{
     "num": "102",
     "name": "Exeggcute",
     "img": "http://www.serebii.net/pokemongo/pokemon/102.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/102.png",
     "type": [
         "Grass",
         "Psychic"
@@ -3562,6 +4271,12 @@ export const list1GenPokemons = [{
         "Psychic",
         "Fighting"
     ],
+    "stats": {
+        "stamina": 134,
+        "attack": 122,
+        "defense": 140
+    },
+    "maxCP": 1328,
     "next_evolution": [{
         "num": "103",
         "name": "Exeggutor"
@@ -3571,6 +4286,7 @@ export const list1GenPokemons = [{
     "num": "103",
     "name": "Exeggutor",
     "img": "http://www.serebii.net/pokemongo/pokemon/103.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/103.png",
     "type": [
         "Grass",
         "Psychic"
@@ -3600,6 +4316,12 @@ export const list1GenPokemons = [{
         "Psychic",
         "Fighting"
     ],
+    "stats": {
+        "stamina": 127,
+        "attack": 248,
+        "defense": 164
+    },
+    "maxCP": 3408,
     "prev_evolution": [{
         "num": "102",
         "name": "Exeggcute"
@@ -3609,6 +4331,7 @@ export const list1GenPokemons = [{
     "num": "104",
     "name": "Cubone",
     "img": "http://www.serebii.net/pokemongo/pokemon/104.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/104.png",
     "type": [
         "Ground"
     ],
@@ -3631,6 +4354,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Rock"
     ],
+    "stats": {
+        "stamina": 120,
+        "attack": 105,
+        "defense": 159
+    },
+    "maxCP": 1152,
     "next_evolution": [{
         "num": "105",
         "name": "Marowak"
@@ -3640,6 +4369,7 @@ export const list1GenPokemons = [{
     "num": "105",
     "name": "Marowak",
     "img": "http://www.serebii.net/pokemongo/pokemon/105.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/105.png",
     "type": [
         "Ground"
     ],
@@ -3661,6 +4391,12 @@ export const list1GenPokemons = [{
         "Electric",
         "Rock"
     ],
+    "stats": {
+        "stamina": 121,
+        "attack": 159,
+        "defense": 201
+    },
+    "maxCP": 2075,
     "prev_evolution": [{
         "num": "104",
         "name": "Cubone"
@@ -3670,6 +4406,7 @@ export const list1GenPokemons = [{
     "num": "106",
     "name": "Hitmonlee",
     "img": "http://www.serebii.net/pokemongo/pokemon/106.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/106.png",
     "type": [
         "Fighting"
     ],
@@ -3691,11 +4428,18 @@ export const list1GenPokemons = [{
         "Dark",
         "Bug"
     ],
+    "stats": {
+        "stamina": 90,
+        "attack": 236,
+        "defense": 196
+    },
+    "maxCP": 2912,
 }, {
     "id": 107,
     "num": "107",
     "name": "Hitmonchan",
     "img": "http://www.serebii.net/pokemongo/pokemon/107.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/107.png",
     "type": [
         "Fighting"
     ],
@@ -3717,11 +4461,18 @@ export const list1GenPokemons = [{
         "Dark",
         "Bug"
     ],
+    "stats": {
+        "stamina": 96,
+        "attack": 208,
+        "defense": 212
+    },
+    "maxCP": 2636,
 }, {
     "id": 108,
     "num": "108",
     "name": "Lickitung",
     "img": "http://www.serebii.net/pokemongo/pokemon/108.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/108.png",   
     "type": [
         "Normal"
     ],
@@ -3739,11 +4490,18 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 175,
+        "attack": 123,
+        "defense": 152
+    },
+    "maxCP": 1595,
 }, {
     "id": 109,
     "num": "109",
     "name": "Koffing",
     "img": "http://www.serebii.net/pokemongo/pokemon/109.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/109.png",
     "type": [
         "Poison"
     ],
@@ -3767,6 +4525,12 @@ export const list1GenPokemons = [{
         "Fairy",
         "Fighting"
     ],
+    "stats": {
+        "stamina": 106,
+        "attack": 134,
+        "defense": 156
+    },
+    "maxCP": 1373,
     "next_evolution": [{
         "num": "110",
         "name": "Weezing"
@@ -3776,6 +4540,7 @@ export const list1GenPokemons = [{
     "num": "110",
     "name": "Weezing",
     "img": "http://www.serebii.net/pokemongo/pokemon/110.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/110.png",
     "type": [
         "Poison"
     ],
@@ -3798,6 +4563,12 @@ export const list1GenPokemons = [{
         "Fairy",
         "Fighting"
     ],
+    "stats": {
+        "stamina": 112,
+        "attack": 189,
+        "defense": 212
+    },
+    "maxCP": 2592,
     "prev_evolution": [{
         "num": "109",
         "name": "Koffing"
@@ -3807,6 +4578,7 @@ export const list1GenPokemons = [{
     "num": "111",
     "name": "Rhyhorn",
     "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/111.png",
     "type": [
         "Ground",
         "Rock"
@@ -3836,6 +4608,12 @@ export const list1GenPokemons = [{
         "Normal",
         "Rock"
     ],
+    "stats": {
+        "stamina": 154,
+        "attack": 155,
+        "defense": 142
+    },
+    "maxCP": 1867,
     "next_evolution": [{
         "num": "112",
         "name": "Rhydon"
@@ -3845,6 +4623,7 @@ export const list1GenPokemons = [{
     "num": "112",
     "name": "Rhydon",
     "img": "http://www.serebii.net/pokemongo/pokemon/112.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/112.png",
     "type": [
         "Ground",
         "Rock"
@@ -3873,6 +4652,12 @@ export const list1GenPokemons = [{
         "Normal",
         "Rock"
     ],
+    "stats": {
+        "stamina": 134,
+        "attack": 237,
+        "defense": 186
+    },
+    "maxCP": 3594,
     "prev_evolution": [{
         "num": "111",
         "name": "Rhyhorn"
@@ -3882,6 +4667,7 @@ export const list1GenPokemons = [{
     "num": "113",
     "name": "Chansey",
     "img": "http://www.serebii.net/pokemongo/pokemon/113.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/113.png",
     "type": [
         "Normal"
     ],
@@ -3899,11 +4685,18 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 396,
+        "attack": 75,
+        "defense": 143
+    },
+    "maxCP": 1418,
 }, {
     "id": 114,
     "num": "114",
     "name": "Tangela",
     "img": "http://www.serebii.net/pokemongo/pokemon/114.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/114.png",
     "type": [
         "Grass"
     ],
@@ -3928,11 +4721,18 @@ export const list1GenPokemons = [{
         "Grass",
         "Ground"
     ],
+    "stats": {
+        "stamina": 114,
+        "attack": 198,
+        "defense": 184
+    },
+    "maxCP": 2530,
 }, {
     "id": 115,
     "num": "115",
     "name": "Kangaskhan",
     "img": "http://www.serebii.net/pokemongo/pokemon/115.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/115.png",
     "type": [
         "Normal"
     ],
@@ -3950,11 +4750,18 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 148,
+        "attack": 196,
+        "defense": 180
+    },
+    "maxCP": 2924,
 }, {
     "id": 116,
     "num": "116",
     "name": "Horsea",
     "img": "http://www.serebii.net/pokemongo/pokemon/116.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/116.png",
     "type": [
         "Water"
     ],
@@ -3977,6 +4784,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Fire"
     ],
+    "stats": {
+        "stamina": 192,
+        "attack": 144,
+        "defense": 118
+    },
+    "maxCP": 1194,
     "next_evolution": [{
         "num": "117",
         "name": "Seadra"
@@ -3986,6 +4799,7 @@ export const list1GenPokemons = [{
     "num": "117",
     "name": "Seadra",
     "img": "http://www.serebii.net/pokemongo/pokemon/117.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/117.png",
     "type": [
         "Water"
     ],
@@ -4007,6 +4821,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Fire"
     ],
+    "stats": {
+        "stamina": 107,
+        "attack": 202,
+        "defense": 171
+    },
+    "maxCP": 2366,
     "prev_evolution": [{
         "num": "116",
         "name": "Horsea"
@@ -4016,6 +4836,7 @@ export const list1GenPokemons = [{
     "num": "118",
     "name": "Goldeen",
     "img": "http://www.serebii.net/pokemongo/pokemon/118.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/118.png",
     "type": [
         "Water"
     ],
@@ -4041,6 +4862,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Fire"
     ],
+    "stats": {
+        "stamina": 113,
+        "attack": 138,
+        "defense": 125
+    },
+    "maxCP": 1302,
     "next_evolution": [{
         "num": "119",
         "name": "Seaking"
@@ -4050,6 +4877,7 @@ export const list1GenPokemons = [{
     "num": "119",
     "name": "Seaking",
     "img": "http://www.serebii.net/pokemongo/pokemon/119.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/119.png",
     "type": [
         "Water"
     ],
@@ -4071,6 +4899,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Fire"
     ],
+    "stats": {
+        "stamina": 134,
+        "attack": 190,
+        "defense": 162
+    },
+    "maxCP": 2444,
     "prev_evolution": [{
         "num": "118",
         "name": "Goldeen"
@@ -4080,6 +4914,7 @@ export const list1GenPokemons = [{
     "num": "120",
     "name": "Staryu",
     "img": "http://www.serebii.net/pokemongo/pokemon/120.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/120.png",
     "type": [
         "Water"
     ],
@@ -4105,6 +4940,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Fire"
     ],
+    "stats": {
+        "stamina": 92,
+        "attack": 152,
+        "defense": 127
+    },
+    "maxCP": 1308,
     "next_evolution": [{
         "num": "121",
         "name": "Starmie"
@@ -4114,6 +4955,7 @@ export const list1GenPokemons = [{
     "num": "121",
     "name": "Starmie",
     "img": "http://www.serebii.net/pokemongo/pokemon/121.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/121.png",
     "type": [
         "Water",
         "Psychic"
@@ -4141,6 +4983,12 @@ export const list1GenPokemons = [{
         "Psychic",
         "Fighting"
     ],
+    "stats": {
+        "stamina": 101,
+        "attack": 225,
+        "defense": 199
+    },
+    "maxCP": 2922,
     "prev_evolution": [{
         "num": "120",
         "name": "Staryu"
@@ -4150,6 +4998,7 @@ export const list1GenPokemons = [{
     "num": "122",
     "name": "Mr. Mime",
     "img": "http://www.serebii.net/pokemongo/pokemon/122.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/122.png",
     "type": [
         "Psychic"
     ],
@@ -4170,11 +5019,18 @@ export const list1GenPokemons = [{
         "Fighting",
         "Psychic"
     ],
+    "stats": {
+        "stamina": 87,
+        "attack": 207,
+        "defense": 220
+    },
+    "maxCP": 2519,
 }, {
     "id": 123,
     "num": "123",
     "name": "Scyther",
     "img": "http://www.serebii.net/pokemongo/pokemon/123.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/123.png",
     "type": [
         "Bug",
         "Flying"
@@ -4200,11 +5056,18 @@ export const list1GenPokemons = [{
         "Fighting",
         "Grass"
     ],
+    "stats": {
+        "stamina": 108,
+        "attack": 233,
+        "defense": 185
+    },
+    "maxCP": 3060,
 }, {
     "id": 124,
     "num": "124",
     "name": "Jynx",
     "img": "http://www.serebii.net/pokemongo/pokemon/124.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/124.png",
     "type": [
         "Ice",
         "Psychic"
@@ -4230,11 +5093,18 @@ export const list1GenPokemons = [{
         "Ice",
         "Psychic"
     ],
+    "stats": {
+        "stamina": 107,
+        "attack": 238,
+        "defense": 166
+    },
+    "maxCP": 2888,
 }, {
     "id": 125,
     "num": "125",
     "name": "Electabuzz",
     "img": "http://www.serebii.net/pokemongo/pokemon/125.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/125.png",
     "type": [
         "Electric"
     ],
@@ -4254,11 +5124,18 @@ export const list1GenPokemons = [{
         "Electric",
         "Steel"
     ],
+    "stats": {
+        "stamina": 112,
+        "attack": 213,
+        "defense": 173
+    },
+    "maxCP": 2639,
 }, {
     "id": 126,
     "num": "126",
     "name": "Magmar",
     "img": "http://www.serebii.net/pokemongo/pokemon/126.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/126.png",
     "type": [
         "Fire"
     ],
@@ -4283,11 +5160,18 @@ export const list1GenPokemons = [{
         "Ice",
         "Fairy"
     ],
+    "stats": {
+        "stamina": 110,
+        "attack": 221,
+        "defense": 169
+    },
+    "maxCP": 2706,
 }, {
     "id": 127,
     "num": "127",
     "name": "Pinsir",
     "img": "http://www.serebii.net/pokemongo/pokemon/127.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/127.png",
     "type": [
         "Bug"
     ],
@@ -4309,11 +5193,18 @@ export const list1GenPokemons = [{
         "Fighting",
         "Grass"
     ],
+    "stats": {
+        "stamina": 99,
+        "attack": 253,
+        "defense": 197
+    },
+    "maxCP": 3345,
 }, {
     "id": 128,
     "num": "128",
     "name": "Tauros",
     "img": "http://www.serebii.net/pokemongo/pokemon/128.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/128.png",
     "type": [
         "Normal"
     ],
@@ -4331,11 +5222,18 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 117,
+        "attack": 213,
+        "defense": 198
+    },
+    "maxCP": 2962,
 }, {
     "id": 129,
     "num": "129",
     "name": "Magikarp",
     "img": "http://www.serebii.net/pokemongo/pokemon/129.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/129.png",
     "type": [
         "Water"
     ],
@@ -4361,6 +5259,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Fire"
     ],
+    "stats": {
+        "stamina": 79,
+        "attack": 44,
+        "defense": 100
+    },
+    "maxCP": 310,
     "next_evolution": [{
         "num": "130",
         "name": "Gyarados"
@@ -4370,6 +5274,7 @@ export const list1GenPokemons = [{
     "num": "130",
     "name": "Gyarados",
     "img": "http://www.serebii.net/pokemongo/pokemon/130.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/130.png",
     "type": [
         "Water",
         "Flying"
@@ -4395,6 +5300,12 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 119,
+        "attack": 252,
+        "defense": 201
+    },
+    "maxCP": 3834,
     "prev_evolution": [{
         "num": "129",
         "name": "Magikarp"
@@ -4404,6 +5315,7 @@ export const list1GenPokemons = [{
     "num": "131",
     "name": "Lapras",
     "img": "http://www.serebii.net/pokemongo/pokemon/131.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/131.png",
     "type": [
         "Water",
         "Ice"
@@ -4426,11 +5338,18 @@ export const list1GenPokemons = [{
         "Ice",
         "Water"
     ],
+    "stats": {
+        "stamina": 172,
+        "attack": 180,
+        "defense": 189
+    },
+    "maxCP": 2985,
 }, {
     "id": 132,
     "num": "132",
     "name": "Ditto",
     "img": "http://www.serebii.net/pokemongo/pokemon/132.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/132.png",
     "type": [
         "Normal"
     ],
@@ -4448,11 +5367,18 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 117,
+        "attack": 106,
+        "defense": 106
+    },
+    "maxCP": 940,
 }, {
     "id": 133,
     "num": "133",
     "name": "Eevee",
     "img": "http://www.serebii.net/pokemongo/pokemon/133.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/133.png",
     "type": [
         "Normal"
     ],
@@ -4474,6 +5400,12 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 127,
+        "attack": 119,
+        "defense": 129
+    },
+    "maxCP": 1210,
     "next_evolution": [{
         "num": "134",
         "name": "Vaporeon"
@@ -4489,6 +5421,7 @@ export const list1GenPokemons = [{
     "num": "134",
     "name": "Vaporeon",
     "img": "http://www.serebii.net/pokemongo/pokemon/134.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/134.png",
     "type": [
         "Water"
     ],
@@ -4510,6 +5443,12 @@ export const list1GenPokemons = [{
         "Steel",
         "Fire"
     ],
+    "stats": {
+        "stamina": 158,
+        "attack": 220,
+        "defense": 176
+    },
+    "maxCP": 3521,
     "prev_evolution": [{
         "num": "133",
         "name": "Eevee"
@@ -4519,6 +5458,7 @@ export const list1GenPokemons = [{
     "num": "135",
     "name": "Jolteon",
     "img": "http://www.serebii.net/pokemongo/pokemon/135.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/135.png",
     "type": [
         "Electric"
     ],
@@ -4538,6 +5478,12 @@ export const list1GenPokemons = [{
         "Flying",
         "Electric"
     ],
+    "stats": {
+        "stamina": 100,
+        "attack": 247,
+        "defense": 197
+    },
+    "maxCP": 3265,
     "prev_evolution": [{
         "num": "133",
         "name": "Eevee"
@@ -4547,6 +5493,7 @@ export const list1GenPokemons = [{
     "num": "136",
     "name": "Flareon",
     "img": "http://www.serebii.net/pokemongo/pokemon/136.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/136.png",
     "type": [
         "Fire"
     ],
@@ -4571,6 +5518,12 @@ export const list1GenPokemons = [{
         "Fairy",
         "Grass"
     ],
+    "stats": {
+        "stamina": 98,
+        "attack": 261,
+        "defense": 194
+    },
+    "maxCP": 3424,
     "prev_evolution": [{
         "num": "133",
         "name": "Eevee"
@@ -4580,6 +5533,7 @@ export const list1GenPokemons = [{
     "num": "137",
     "name": "Porygon",
     "img": "http://www.serebii.net/pokemongo/pokemon/137.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/137.png",
     "type": [
         "Normal"
     ],
@@ -4597,11 +5551,18 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 131,
+        "attack": 168,
+        "defense": 151
+    },
+    "maxCP": 1944,
 }, {
     "id": 138,
     "num": "138",
     "name": "Omanyte",
     "img": "http://www.serebii.net/pokemongo/pokemon/138.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/138.png",
     "type": [
         "Rock",
         "Water"
@@ -4628,6 +5589,12 @@ export const list1GenPokemons = [{
         "Fire",
         "Ice"
     ],
+    "stats": {
+        "stamina": 98,
+        "attack": 170,
+        "defense": 168
+    },
+    "maxCP": 1746,
     "next_evolution": [{
         "num": "139",
         "name": "Omastar"
@@ -4637,6 +5604,7 @@ export const list1GenPokemons = [{
     "num": "139",
     "name": "Omastar",
     "img": "http://www.serebii.net/pokemongo/pokemon/139.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/139.png",
     "type": [
         "Rock",
         "Water"
@@ -4662,6 +5630,12 @@ export const list1GenPokemons = [{
         "Fire",
         "Ice"
     ],
+    "stats": {
+        "stamina": 107,
+        "attack": 222,
+        "defense": 216
+    },
+    "maxCP": 3150,
     "prev_evolution": [{
         "num": "138",
         "name": "Omanyte"
@@ -4671,6 +5645,7 @@ export const list1GenPokemons = [{
     "num": "140",
     "name": "Kabuto",
     "img": "http://www.serebii.net/pokemongo/pokemon/140.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/140.png",
     "type": [
         "Rock",
         "Water"
@@ -4700,6 +5675,12 @@ export const list1GenPokemons = [{
         "Fire",
         "Ice"
     ],
+    "stats": {
+        "stamina": 92,
+        "attack": 163,
+        "defense": 155
+    },
+    "maxCP": 1549,
     "next_evolution": [{
         "num": "141",
         "name": "Kabutops"
@@ -4709,6 +5690,7 @@ export const list1GenPokemons = [{
     "num": "141",
     "name": "Kabutops",
     "img": "http://www.serebii.net/pokemongo/pokemon/141.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/141.png",
     "type": [
         "Rock",
         "Water"
@@ -4734,6 +5716,12 @@ export const list1GenPokemons = [{
         "Fire",
         "Ice"
     ],
+    "stats": {
+        "stamina": 98,
+        "attack": 235,
+        "defense": 201
+    },
+    "maxCP": 3067,
     "prev_evolution": [{
         "num": "140",
         "name": "Kabuto"
@@ -4743,6 +5731,7 @@ export const list1GenPokemons = [{
     "num": "142",
     "name": "Aerodactyl",
     "img": "http://www.serebii.net/pokemongo/pokemon/142.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/142.png",
     "type": [
         "Rock",
         "Flying"
@@ -4770,11 +5759,18 @@ export const list1GenPokemons = [{
         "Ground",
         "Bug"
     ],
+    "stats": {
+        "stamina": 117,
+        "attack": 236,
+        "defense": 174
+    },
+    "maxCP": 3147,
 }, {
     "id": 143,
     "num": "143",
     "name": "Snorlax",
     "img": "http://www.serebii.net/pokemongo/pokemon/143.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/143.png",
     "type": [
         "Normal"
     ],
@@ -4792,11 +5788,18 @@ export const list1GenPokemons = [{
     "resistances": [
         "Ghost"
     ],
+    "stats": {
+        "stamina": 184,
+        "attack": 205,
+        "defense": 184
+    },
+    "maxCP": 3647,
 }, {
     "id": 144,
     "num": "144",
     "name": "Articuno",
     "img": "http://www.serebii.net/pokemongo/pokemon/144.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/144.png",
     "type": [
         "Ice",
         "Flying"
@@ -4819,11 +5822,18 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 122,
+        "attack": 207,
+        "defense": 251
+    },
+    "maxCP": 3450,
 }, {
     "id": 145,
     "num": "145",
     "name": "Zapdos",
     "img": "http://www.serebii.net/pokemongo/pokemon/145.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/145.png",
     "type": [
         "Electric",
         "Flying"
@@ -4847,11 +5857,18 @@ export const list1GenPokemons = [{
         "Bug",
         "Ground"
     ],
+    "stats": {
+        "stamina": 112,
+        "attack": 268,
+        "defense": 200
+    },
+    "maxCP": 3987,
 }, {
     "id": 146,
     "num": "146",
     "name": "Moltres",
     "img": "http://www.serebii.net/pokemongo/pokemon/146.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/146.png",
     "type": [
         "Fire",
         "Flying"
@@ -4878,11 +5895,18 @@ export const list1GenPokemons = [{
         "Fighting",
         "Ground"
     ],
+    "stats": {
+        "stamina": 114,
+        "attack": 266,
+        "defense": 196
+    },
+    "maxCP": 3918,
 }, {
     "id": 147,
     "num": "147",
     "name": "Dratini",
     "img": "http://www.serebii.net/pokemongo/pokemon/147.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/147.png",
     "type": [
         "Dragon"
     ],
@@ -4909,6 +5933,12 @@ export const list1GenPokemons = [{
         "Water",
         "Fire"
     ],
+    "stats": {
+        "stamina": 107,
+        "attack": 134,
+        "defense": 106
+    },
+    "maxCP": 1136,
     "next_evolution": [{
         "num": "148",
         "name": "Dragonair"
@@ -4921,6 +5951,7 @@ export const list1GenPokemons = [{
     "num": "148",
     "name": "Dragonair",
     "img": "http://www.serebii.net/pokemongo/pokemon/148.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/148.png",
     "type": [
         "Dragon"
     ],
@@ -4944,6 +5975,12 @@ export const list1GenPokemons = [{
         "Water",
         "Fire"
     ],
+    "stats": {
+        "stamina": 124,
+        "attack": 178,
+        "defense": 150
+    },
+    "maxCP": 2012,
     "prev_evolution": [{
         "num": "147",
         "name": "Dratini"
@@ -4957,6 +5994,7 @@ export const list1GenPokemons = [{
     "num": "149",
     "name": "Dragonite",
     "img": "http://www.serebii.net/pokemongo/pokemon/149.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/149.png",
     "type": [
         "Dragon",
         "Flying"
@@ -4983,6 +6021,12 @@ export const list1GenPokemons = [{
         "Fighting",
         "Ground"
     ],
+    "stats": {
+        "stamina": 109,
+        "attack": 278,
+        "defense": 213
+    },
+    "maxCP": 4287,
     "prev_evolution": [{
         "num": "147",
         "name": "Dratini"
@@ -4995,6 +6039,7 @@ export const list1GenPokemons = [{
     "num": "150",
     "name": "Mewtwo",
     "img": "http://www.serebii.net/pokemongo/pokemon/150.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/150.png",
     "type": [
         "Psychic"
     ],
@@ -5015,11 +6060,18 @@ export const list1GenPokemons = [{
         "Fighting",
         "Psychic"
     ],
+    "stats": {
+        "stamina": 108,
+        "attack": 315,
+        "defense": 197
+    },
+    "maxCP": 4724,
 }, {
     "id": 151,
     "num": "151",
     "name": "Mew",
     "img": "http://www.serebii.net/pokemongo/pokemon/151.png",
+    "imgShiny": "http://www.serebii.net/pokemongo/pokemon/shiny/151.png",
     "type": [
         "Psychic"
     ],
@@ -5040,4 +6092,10 @@ export const list1GenPokemons = [{
         "Fighting",
         "Psychic"
     ],
+    "stats": {
+        "stamina": 128,
+        "attack": 225,
+        "defense": 225
+    },
+    "maxCP": 3691,
 }];

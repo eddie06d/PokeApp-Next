@@ -12,7 +12,7 @@ export default function Modal({ title, children, estado, setEstado }) {
                         <div className="modal">
                             <main>
                                 <header className="flex justify-between pb-3 items-center border-b-2 border-gray-500">
-                                    <h3 className="text-2xl font-bold">{title}</h3>
+                                    <h3 className="text-2xl xs:text-xl font-bold">{title}</h3>
                                     <i className="fas fa-times text-2xl cursor-pointer hover:bg-gray-200 py-1 px-2 rounded-md" onClick={handleClose}></i>
                                 </header>
                                 {children}

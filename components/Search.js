@@ -59,11 +59,11 @@ export default function Search(props) {
 
     return (
         <form ref={formRef} {...formProps}>
-            <div className="flex relative">
+            <div className="flex relative mds:w-full">
                 <div className="border-gray-200 border h-10 flex items-center px-3 rounded-tl-lg rounded-bl-lg">
                     <i className="fas fa-search"></i>
                 </div>
-                <input ref={inputRef} className='bg-gray-200 py-2 px-3 rounded-tr-lg rounded-br-lg outline-none w-72' {...inputProps} />
+                <input ref={inputRef} className='bg-gray-200 py-2 px-3 rounded-tr-lg rounded-br-lg outline-none w-72 mds:w-3/4' {...inputProps} />
                 {
                     autocompleteState.isOpen && (
                         <div className="absolute top-0 left-0 z-10 border border-gray-100 bg-white mt-12 overflow-hidden rounded-lg shadow-lg" ref={panelRef} {...autocomplete.getPanelProps()}>
